@@ -224,6 +224,13 @@
 
         if (wordList.length === 0) {
           $('.puzzleSquare').addClass('complete');
+          Swal.fire({
+            position: 'center',
+            title: 'Felicitaciones!',
+            imageUrl: 'images/success.png',
+            showConfirmButton: false,
+            timer: 3500
+          })
         }
       }
 
