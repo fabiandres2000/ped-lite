@@ -1,0 +1,239 @@
+[ 
+{ 
+"idunid":35,
+"nomunid":"Unidad 1",
+"desunid":"¿PORQUÉ ES IMPORTANTE LA CÁTEDRA DE LA PAZ?",
+"periodo":"89",
+"modulo":"23"
+},
+{ 
+"idunid":36,
+"nomunid":"Unidad 2",
+"desunid":"¿PORQUÉ LOS DERECHOS HUMANOS NOS FORMAN COMO CIUDADANOS DE PAZ?",
+"periodo":"90",
+"modulo":"23"
+},
+{ 
+"idunid":37,
+"nomunid":"Unidad 3",
+"desunid":"¿CÓMO CONSTRUIR CULTURA DE PAZ EN MI INSTITUCIÓN?",
+"periodo":"91",
+"modulo":"23"
+},
+{ 
+"idunid":38,
+"nomunid":"Unidad 4",
+"desunid":"¿CÓMO UTILIZAR LA COMUNICACIÓN ASERTIVA EN LA SOLUIÓN DE CONFLICTO?",
+"periodo":"92",
+"modulo":"23"
+},
+{ 
+"idunid":140,
+"nomunid":"Unidad 1",
+"desunid":"GÉNERO NARRATIVO",
+"periodo":"136",
+"modulo":"35"
+},
+{ 
+"idunid":141,
+"nomunid":"Unidad 2",
+"desunid":"ORTOGRAFÍA",
+"periodo":"136",
+"modulo":"35"
+},
+{ 
+"idunid":142,
+"nomunid":"Unidad 1",
+"desunid":"LITERATURA (CLASES DE NARRACIONES)",
+"periodo":"137",
+"modulo":"35"
+},
+{ 
+"idunid":144,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"137",
+"modulo":"35"
+},
+{ 
+"idunid":146,
+"nomunid":"Unidad 3",
+"desunid":"ORTOGRAFÍA",
+"periodo":"137",
+"modulo":"35"
+},
+{ 
+"idunid":147,
+"nomunid":"Unidad 1",
+"desunid":"GÉNERO LITERARIO",
+"periodo":"138",
+"modulo":"35"
+},
+{ 
+"idunid":149,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"138",
+"modulo":"35"
+},
+{ 
+"idunid":150,
+"nomunid":"Unidad 3",
+"desunid":"ORTOGRAFÍA",
+"periodo":"138",
+"modulo":"35"
+},
+{ 
+"idunid":152,
+"nomunid":"Unidad 1",
+"desunid":"EL GÉNERO LÍRICO",
+"periodo":"139",
+"modulo":"35"
+},
+{ 
+"idunid":154,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"139",
+"modulo":"35"
+},
+{ 
+"idunid":155,
+"nomunid":"Unidad 3",
+"desunid":"ORTOGRAFÍA",
+"periodo":"139",
+"modulo":"35"
+},
+{ 
+"idunid":159,
+"nomunid":"Unidad 4",
+"desunid":"MEDIOS DE COMUNICACIÓN",
+"periodo":"139",
+"modulo":"35"
+},
+{ 
+"idunid":226,
+"nomunid":"Unidad 1",
+"desunid":"CONOCIMIENTO DE PROCESOS BIOLOGICOS",
+"periodo":"193",
+"modulo":"49"
+},
+{ 
+"idunid":227,
+"nomunid":"Unidad 2",
+"desunid":"CONOCIMIENTO DE PROCESOS QUÍMICOS",
+"periodo":"194",
+"modulo":"49"
+},
+{ 
+"idunid":228,
+"nomunid":"Unidad 3",
+"desunid":"LA TIERRA EN EL UNIVERSO",
+"periodo":"195",
+"modulo":"49"
+},
+{ 
+"idunid":229,
+"nomunid":"Unidad 4",
+"desunid":"CONOCIMIENTO DE PROCESOS FÍSICOS",
+"periodo":"196",
+"modulo":"49"
+},
+{ 
+"idunid":230,
+"nomunid":"Unidad 1",
+"desunid":"LOS ECOSISTEMAS",
+"periodo":"193",
+"modulo":"49"
+},
+{ 
+"idunid":231,
+"nomunid":"Unidad 3",
+"desunid":"LA LUNA EN EL UNIVERSO",
+"periodo":"195",
+"modulo":"49"
+},
+{ 
+"idunid":248,
+"nomunid":"Unidad 1",
+"desunid":"AUXILIARY VERBS AND THINGS ABOUT ME",
+"periodo":"237",
+"modulo":"60"
+},
+{ 
+"idunid":249,
+"nomunid":"Unidad 2",
+"desunid":"HOW WE CAN USE SOME EXPRESSIONS?",
+"periodo":"238",
+"modulo":"60"
+},
+{ 
+"idunid":250,
+"nomunid":"Unidad 3",
+"desunid":"VOCABULARY ABOUT THE HOUSE, LIKES AND DISLIKES?",
+"periodo":"239",
+"modulo":"60"
+},
+{ 
+"idunid":251,
+"nomunid":"Unidad 4",
+"desunid":"USE CLOTHES DEPEND THE SEASON AND PERSONAL LIKES.",
+"periodo":"240",
+"modulo":"60"
+},
+{ 
+"idunid":354,
+"nomunid":"Unidad 1",
+"desunid":"PENSAMIENTO NUMÉRICO - NÚMEROS NATURALES",
+"periodo":"57",
+"modulo":"15"
+},
+{ 
+"idunid":355,
+"nomunid":"Unidad 2",
+"desunid":"NÚMEROS FRACCIONARIOS Y DECIMALES",
+"periodo":"58",
+"modulo":"15"
+},
+{ 
+"idunid":356,
+"nomunid":"Unidad 3",
+"desunid":"ANGULOS Y POLIGONOS - MOVIMIENTO EN LE PLANO",
+"periodo":"59",
+"modulo":"15"
+},
+{ 
+"idunid":357,
+"nomunid":"Unidad 4",
+"desunid":"PROBABILIDAD",
+"periodo":"60",
+"modulo":"15"
+},
+{ 
+"idunid":402,
+"nomunid":"Unidad 1",
+"desunid":"EL SER HUMANO Y EL UNIVERSO",
+"periodo":"305",
+"modulo":"77"
+},
+{ 
+"idunid":403,
+"nomunid":"Unidad 2",
+"desunid":"COLOMBIA: UN PAÍS DE GRAN DIVERSIDAD",
+"periodo":"306",
+"modulo":"77"
+},
+{ 
+"idunid":404,
+"nomunid":"Unidad 3",
+"desunid":"COLOMBIA: LA TIERRA Y SU ENTORNO",
+"periodo":"307",
+"modulo":"77"
+},
+{ 
+"idunid":405,
+"nomunid":"Unidad 4",
+"desunid":"LA DEMOCRACIA: UNA OPORTUNIDAD PARA PARTICIPAR",
+"periodo":"308",
+"modulo":"77"
+}]

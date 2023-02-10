@@ -1,0 +1,779 @@
+<!-- - var menuBorder = true-->
+<!DOCTYPE html>
+<html class="loading" lang="en" data-textdirection="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui"
+    />
+    <meta
+      name="description"
+      content="Stack admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities."
+    />
+    <meta
+      name="keywords"
+      content="admin template, stack admin template, dashboard template, flat admin template, responsive admin template, web app"
+    />
+    <meta name="author" content="PIXINVENT" />
+    <title>Grados - PEDIGITAL-LITE</title>
+    <link
+      rel="shortcut icon"
+      type="image/x-icon"
+      href="../app-assets/images/ico/PED.ico"
+    />
+    <link href="../app-assets/css/font.css" rel="stylesheet" />
+    <!-- BEGIN VENDOR CSS-->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../app-assets/css/vendors.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../app-assets/vendors/css/extensions/unslider.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../app-assets/vendors/css/weather-icons/climacons.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../app-assets/fonts/meteocons/style.css"
+    />
+    <!-- END VENDOR CSS-->
+    <!-- BEGIN STACK CSS-->
+    <link rel="stylesheet" type="text/css" href="../app-assets/css/app.css" />
+    <!-- END STACK CSS-->
+    <!-- BEGIN Page Level CSS-->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../app-assets/css/core/menu/menu-types/vertical-menu.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../app-assets/fonts/simple-line-icons/style.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../app-assets/css/core/colors/palette-callout.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../app-assets/css/pages/timeline.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../app-assets/css/pages/gallery.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../app-assets/Hover-master/css/hover.css"
+    />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+    <!-- END Page Level CSS-->
+    <!-- BEGIN Custom CSS-->
+    <link rel="stylesheet" type="text/css" href="../assets/css/style.css" />
+    <!-- END Custom CSS-->
+  </head>
+
+  <body
+    class="vertical-layout vertical-menu 2-columns menu-expanded fixed-navbar"
+    data-open="click"
+    data-menu="vertical-menu"
+    data-col="2-columns"
+  >
+    <!-- fixed-top-->
+
+    <!-- ////////////////////////////////////////////////////////////////////////////-->
+    <input type="hidden" value="" id="idUnid" />
+    <input type="hidden" value="" id="nomAsig" />
+    <div class="app-content content" id="div-areas" style="margin-left: 0px">
+      <div class="content-wrapper">
+        <div class="content-header row">
+          <div class="content-header-left col-md-6 col-12 mb-1">
+            <h3 class="content-header-title">Áreas Grado Primero</h3>
+          </div>
+          <div
+            class="content-header-right breadcrumbs-right breadcrumbs-top col-md-6 col-12"
+          >
+            <div class="breadcrumb-wrapper col-12">
+              <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                  <a href="../Inicio.html">Inicio</a>
+                </li>
+                <li class="breadcrumb-item">
+                  <a href="#">Grado Primero</a>
+                </li>
+              </ol>
+            </div>
+          </div>
+        </div>
+        <div class="content-body">
+          <div class="row cursor-pointer" id="Areas"></div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      class="app-content content"
+      style="display: none"
+      id="div-asignaturas"
+      style="margin-left: 0px"
+    >
+      <div class="content-wrapper">
+        <div class="content-header row">
+          <div class="content-header-left col-md-6 col-12 mb-1">
+            <h3 class="content-header-title">Asignaturas Grado Primero</h3>
+          </div>
+          <div
+            class="content-header-right breadcrumbs-right breadcrumbs-top col-md-6 col-12"
+          >
+            <div class="breadcrumb-wrapper col-12">
+              <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                  <a href="../Inicio.html">Inicio</a>
+                </li>
+                <li class="breadcrumb-item">
+                  <a href="#">Grado Primero</a>
+                </li>
+              </ol>
+            </div>
+          </div>
+        </div>
+        <div class="content-body">
+          <div class="row cursor-pointer" id="Asignaturas"></div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="app-content content"
+      style="display: none"
+      id="div-prueba"
+      style="margin-left: 0px"
+    >
+      <div class="content-wrapper">
+        <div class="content-header row">
+          <div class="content-header-left col-md-6 col-12 mb-1">
+            <h3 class="content-header-title" id="tituloUnidades"></h3>
+          </div>
+          <div
+            class="content-header-right breadcrumbs-right breadcrumbs-top col-md-6 col-12"
+          >
+            <div class="breadcrumb-wrapper col-12">
+              <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                  <a href="../../Inicio.html">Inicio</a>
+                </li>
+                <li class="breadcrumb-item">
+                  <a href="#">Grado Primero</a>
+                </li>
+              </ol>
+            </div>
+          </div>
+        </div>
+        <div class="content-body">
+          <div
+            class="tab-content px-1 pt-1"
+            style="width: 100%"
+            id="Unidades"
+          ></div>
+          <div
+            class="tab-content px-1 pt-1"
+            style="width: 100%; display: none"
+            id="Practica"
+          >
+            <div class="card-content collapse show">
+              <div class="card-body">
+                <div
+                  id="div-preguntas"
+                  style="width: 100%"
+                  class="bs-callout-primary callout-border-left callout-transparent p-1"
+                >
+                  <h4 class="primary"></h4>
+                  <p></p>
+                </div>
+              </div>
+              <div id="div-opciones" class="card-body"></div>
+              <div id="div-resultado" style="display: none" class="card-body">
+                <div class="row">
+                  <div class="col-12">
+                    <div class="card">
+                      <div class="card-content">
+                        <div class="row">
+                          <div
+                            class="col-lg-2 col-md-12 col-sm-12 border-right-blue-grey border-right-lighten-5"
+                          ></div>
+                          <div
+                            class="col-lg-8 col-md-12 col-sm-12 border-right-blue-grey border-right-lighten-5"
+                          >
+                            <div class="card-body text-center">
+                              <div class="card-header mb-0">
+                                <h2 class="success" id="resulMensaje">
+                                  FELICITACIONES
+                                </h2>
+                                <h3
+                                  id="resulMensajePunt"
+                                  class="display-4 blue-grey darken-1"
+                                >
+                                  10/10
+                                </h3>
+                              </div>
+                              <div class="card-content">
+                                <div
+                                  style="
+                                    display: inline;
+                                    width: 150px;
+                                    height: 150px;
+                                  "
+                                >
+                                  <img
+                                    id="resulImg"
+                                    src="Imagenes/success.png"
+                                    width="30%"
+                                    class="rounded-circle img-border box-shadow-1"
+                                    alt="Card image"
+                                  />
+                                </div>
+                                <ul class="list-inline clearfix mt-2">
+                                  <li
+                                    class="border-right-blue-grey border-right-lighten-2 pr-2"
+                                  >
+                                    <h1
+                                      id="resulCorrectas"
+                                      class="blue-grey darken-1 text-bold-400"
+                                    >
+                                      10
+                                    </h1>
+                                    <span class="success">
+                                      <i class="icon-like"></i>
+                                      Correctas</span
+                                    >
+                                  </li>
+                                  <li class="pl-2">
+                                    <h1
+                                      id="resulInconrrectas"
+                                      class="blue-grey darken-1 text-bold-400"
+                                    >
+                                      0
+                                    </h1>
+                                    <span class="warning darken-2">
+                                      <i class="icon-dislike"></i>
+                                      Incorrectas</span
+                                    >
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div
+                            class="col-lg-2 col-md-12 col-sm-12 border-right-blue-grey border-right-lighten-5"
+                          ></div>
+                          <div
+                            class="col-lg-12 col-md-12 col-sm-12 text-center"
+                          >
+                            <div class="form-group">
+                              <button
+                                type="button"
+                                class="btn mr-1 mb-1 btn-outline-success btn-lg"
+                                onclick="$.NuevaPractica();"
+                              >
+                                <i class="fa fa-star-o"></i>
+                                Nuevas Preguntas
+                              </button>
+                              <button
+                                type="button"
+                                onclick="$.AtrasUnid();"
+                                class="btn mr-1 mb-1 btn-outline-danger btn-lg"
+                              >
+                                <i class="ft-corner-up-left"></i>
+                                Salir
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal-footer">
+      <button
+        type="button"
+        id="btn_AtrasAreas"
+        onclick="$.AtrasAreas();"
+        class="btn grey btn-outline-secondary"
+        data-dismiss="modal"
+      >
+        <i class="ft-corner-up-left position-right"></i>
+        Atras
+      </button>
+      <button
+        type="button"
+        style="display: none"
+        id="btn_AtrasAsig"
+        onclick="$.AtrasAsig();"
+        class="btn grey btn-outline-secondary"
+        data-dismiss="modal"
+      >
+        <i class="ft-corner-up-left position-right"></i>
+        Atras
+      </button>
+      <button
+        type="button"
+        style="display: none"
+        id="btn_AtrasUnid"
+        onclick="$.AtrasUnid();"
+        class="btn grey btn-outline-secondary"
+        data-dismiss="modal"
+      >
+        <i class="ft-corner-up-left position-right"></i>
+        Atras
+      </button>
+    </div>
+    <!-- ////////////////////////////////////////////////////////////////////////////-->
+    <footer
+      class="footer footer-static footer-light navbar-border"
+      style="margin-left: 0px"
+    >
+      <p class="clearfix blue-grey lighten-2 text-sm-center mb-0 px-2">
+        <span class="float-md-left d-block d-md-inline-block"
+          >Copyright &copy;
+          <script>
+            document.write(new Date().getFullYear());
+          </script>
+          <a class="text-bold-800 grey darken-2" href="#" target="_blank"
+            >PEDIGITAL Lite </a
+          >, Todos los Derechos Reservados.
+        </span>
+        <span class="float-md-right d-block d-md-inline-block d-none d-lg-block"
+          >CSI Desarrollos e Ingenierias S.A.S
+          <i class="ft-book pink"></i>
+        </span>
+      </p>
+    </footer>
+
+    <!-- BEGIN VENDOR JS-->
+    <script
+      src="../app-assets/vendors/js/vendors.min.js"
+      type="text/javascript"
+    ></script>
+    <!-- BEGIN VENDOR JS-->
+    <!-- BEGIN PAGE VENDOR JS-->
+    <script
+      src="../app-assets/vendors/js/extensions/unslider-min.js"
+      type="text/javascript"
+    ></script>
+    <!-- END PAGE VENDOR JS-->
+    <!-- BEGIN STACK JS-->
+    <script
+      src="../app-assets/js/core/app-menu.js"
+      type="text/javascript"
+    ></script>
+    <script src="../app-assets/js/core/app.js" type="text/javascript"></script>
+
+    <!-- END STACK JS-->
+    <!-- BEGIN PAGE LEVEL JS-->
+    <script
+      src="../app-assets/js/jquery-migrate-3.0.0.min.js"
+      type="text/javascript"
+    ></script>
+    <script src="../app-assets/js/All.js" type="text/javascript"></script>
+    <!-- END PAGE LEVEL JS-->
+
+    <script>
+      $(document).ready(function () {
+        const randomElements = [];
+        let currentIndex = 0;
+        let pregCorrectas = 0;
+        let pregInconrrectas = 0;
+        $.extend({
+          CargarAreas: function () {
+            const xhttp = new XMLHttpRequest();
+            xhttp.open("GET", "Areas.json", true);
+            xhttp.send();
+            xhttp.onreadystatechange = function () {
+              if (this.readyState == 4 && this.status == 200) {
+                let datos = JSON.parse(xhttp.responseText);
+                var contenido = "";
+                for (let item of datos) {
+                  contenido +=
+                    '  <div class="col-xl-3 col-lg-12 gradientediv" onclick="$.CargarAsignaturas(' +
+                    item.id +
+                    ')">' +
+                    '<input type="hidden" value="' +
+                    item.nomare +
+                    '" class="form-control" id="nomArea' +
+                    item.id +
+                    '" value="" /><div class="card hvr-grow-shadow">' +
+                    '<div class="card text-center">' +
+                    '<div class="card-content">' +
+                    '<img class="card-img-top img-fluid" src="Imagenes/' +
+                    item.url_img +
+                    '" alt="Card image cap">' +
+                    '<div class="card-body">' +
+                    '<h4 class="card-title text-bold" style="font-weight: bold;">' +
+                    item.nomare +
+                    "</h4>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>";
+                }
+                $("#Areas").html(contenido);
+              }
+            };
+          },
+          CargarAsignaturas: function (Area) {
+            $("#div-areas").hide();
+            $("#div-asignaturas").show();
+            $("#btn_AtrasAreas").show();
+
+            const xhttp = new XMLHttpRequest();
+            xhttp.open("GET", "AsigGrado.json", true);
+            xhttp.send();
+            xhttp.onreadystatechange = function () {
+              if (this.readyState == 4 && this.status == 200) {
+                let datos = JSON.parse(xhttp.responseText);
+
+                let arrayAsig = datos.filter((e) => e.are == Area);
+
+                var contenido = "";
+                for (let item of arrayAsig) {
+                  contenido +=
+                    '  <div class="col-xl-3 col-lg-12 gradientediv" onclick="$.EntrarContenido(' +
+                    item.idmd +
+                    ')">' +
+                    '<input type="hidden" value="' +
+                    item.asig +
+                    '" class="form-control" id="nomAsig' +
+                    item.idmd +
+                    '"  /><div class="card hvr-grow-shadow">' +
+                    '<div class="card text-center">' +
+                    '<div class="card-content">' +
+                    '<img class="card-img-top img-fluid" src="Imagenes/' +
+                    item.url_img +
+                    '" alt="Card image cap">' +
+                    '<div class="card-body">' +
+                    '<h4 class="card-title" style="font-weight: bold;">' +
+                    item.asig +
+                    "</h4>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>";
+                }
+                $("#Asignaturas").html(contenido);
+              }
+            };
+          },
+          EntrarContenido: function (idAsig) {
+            let NomAsig = $("#nomAsig" + idAsig).val();
+            $("#tituloUnidades").html("Unidades de " + NomAsig);
+            $("#nomAsig").val(NomAsig);
+            $("#div-prueba").show();
+            $("#div-asignaturas").hide();
+            $("#btn_AtrasAsig").show();
+            $("#btn_AtrasAreas").hide();
+
+            const xhttp2 = new XMLHttpRequest();
+            xhttp2.open("GET", "UnidGrado1.json", true);
+            xhttp2.send();
+
+            xhttp2.onreadystatechange = function () {
+              if (this.readyState == 4 && this.status == 200) {
+                let unidades = JSON.parse(xhttp2.responseText);
+
+                let arrayUniades = unidades.filter((e) => e.modulo == idAsig);
+
+                let ContUnid = '<div class="card-body">';
+
+                var myClass = [
+                  "primary",
+                  "info",
+                  "success",
+                  "danger",
+                  "pink",
+                  "warning ",
+                ];
+
+                var margin = "mt-1";
+
+                for (let itemuni of arrayUniades) {
+                  var rand = Math.floor(Math.random() * myClass.length);
+                  var rValue = myClass[rand];
+
+                  ContUnid +=
+                    '<div style="cursor:pointer" onclick="$.MostPractica(' +
+                    itemuni.idunid +
+                    ');" class="bs-callout-' +
+                    rValue +
+                    " callout-transparent callout-bordered " +
+                    margin +
+                    ' hvr-grow-shadow"> <input type="hidden" value="' +
+                    itemuni.desunid +
+                    '" class="form-control" id="nomUnidad' +
+                    itemuni.idunid +
+                    '" value="" />' +
+                    '<div class="media align-items-stretch">' +
+                    '<div class="d-flex align-items-center bg-' +
+                    rValue +
+                    ' position-relative callout-arrow-left p-2">' +
+                    '<i class="fa fa-folder fa-xl white font-medium-5"></i>' +
+                    "</div>" +
+                    ' <div class="media-body p-1">' +
+                    "  <h4>" +
+                    itemuni.desunid +
+                    "</h4>" +
+                    " </div>" +
+                    "  </div>" +
+                    "  </div>";
+                }
+                ContUnid += "</div>";
+
+                $("#Unidades").html(ContUnid);
+              }
+            };
+          },
+          NuevaPractica: function () {
+            let idUni = $("#idUnid").val();
+            $("#div-opciones").show();
+            $("#div-preguntas").show();
+            $("#div-resultado").hide();
+            currentIndex = 0;
+            pregCorrectas = 0;
+            pregInconrrectas = 0;
+            $.MostPractica(idUni);
+          },
+          AtrasPractica: function () {},
+          MostPractica: function (idUni) {
+            currentIndex = 0;
+            pregCorrectas = 0;
+            pregInconrrectas = 0;
+            randomElements.length=0;
+
+            $("#idUnid").val(idUni);
+            let NomUnidad = $("#nomUnidad" + idUni).val();
+            $("#tituloUnidades").html("Preguntas de la Unidad " + NomUnidad);
+            $("#Unidades").hide();
+            $("#btn_AtrasAsig").hide();
+            $("#Practica").show();
+            $("#div-preguntas").show();
+            $("#div-opciones").show();
+            $("#btn_AtrasUnid").show();
+
+            const xhttp2 = new XMLHttpRequest();
+            xhttp2.open("GET", "jsonpreguntas1.json", true);
+            xhttp2.send();
+
+            xhttp2.onreadystatechange = function () {
+              if (this.readyState == 4 && this.status == 200) {
+                let preguntas = JSON.parse(xhttp2.responseText);
+
+                let arrayPreguntas = preguntas.filter(
+                  (e) => e.unidad == idUni
+                );
+
+                for (let i = 0; i < 10; i++) {
+                  const randomIndex = Math.floor(
+                    Math.random() * arrayPreguntas.length
+                  );
+                  randomElements.push(arrayPreguntas[randomIndex]);
+                }
+
+                console.log(randomElements);
+
+                mostPregunta();
+              }
+            };
+          },
+
+          MostOpciones: function (idPreg) {
+            const xhttp2 = new XMLHttpRequest();
+            xhttp2.open("GET", "jsonopciones.json", true);
+            xhttp2.send();
+
+            var contenido = "";
+            $("#div-opciones").html(contenido);
+            xhttp2.onreadystatechange = function () {
+              if (this.readyState == 4 && this.status == 200) {
+                let opciones = JSON.parse(xhttp2.responseText);
+                let arrayOpciones = opciones.filter(
+                  (e) => e.pregunta == idPreg
+                );
+                var x = 1;
+                for (let itemOpc of arrayOpciones) {
+                  contenido +=
+                    ' <div style="width: 100%" id="div-opcion' +
+                    x +
+                    '"  class="bs-callout-info callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow" onclick="$.VerfResp(' +
+                    x +
+                    ');" >' +
+                    '<div class="media align-items-stretch">' +
+                    '<div class="media-body p-1"><input type="hidden" id="idCorrecta' +
+                    x +
+                    '" name="correcta[]" value="' +
+                    itemOpc.correcta +
+                    '" />' +
+                    itemOpc.opciones +
+                    "</div>" +
+                    '<div id="div-bd-inf' +
+                    x +
+                    '" class="d-flex align-items-center bg-info callout-arrow-right position-relative p-2">' +
+                    '<i id="i-icon' +
+                    x +
+                    '" class="fa fa-info white font-medium-5"></i>' +
+                    "</div>" +
+                    "</div>" +
+                    "</div>";
+                  x++;
+                }
+
+                $("#div-opciones").html(contenido);
+              }
+            };
+          },
+          VerfResp: function (id) {
+            var Correcta = $("#idCorrecta" + id).val();
+            $("#div-opcion" + id).removeClass(
+              "bs-callout-info callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow"
+            );
+            $("#div-bd-inf" + id).removeClass(
+              "d-flex align-items-center bg-info callout-arrow-right position-relative p-2"
+            );
+            $("#i-icon" + id).removeClass("fa fa-info white font-medium-5");
+            if (Correcta == "si") {
+              $("#div-opcion" + id).addClass(
+                "bs-callout-success callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow"
+              );
+              $("#div-bd-inf" + id).addClass(
+                "d-flex align-items-center bg-success callout-arrow-right position-relative p-2"
+              );
+              $("#i-icon" + id).addClass("fa fa-check white font-medium-5");
+              pregCorrectas++;
+            } else {
+              $("#div-opcion" + id).addClass(
+                "bs-callout-warning callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow"
+              );
+              $("#div-bd-inf" + id).addClass(
+                "d-flex align-items-center bg-warning callout-arrow-right position-relative p-2"
+              );
+              $("#i-icon" + id).addClass("fa fa-times white font-medium-5");
+
+              // Busca opcion correcta
+              $("input[name='correcta[]']").each(function (indice, elemento) {
+                if ($(elemento).val() === "si") {
+                  var id = elemento.id.slice(-1);
+
+                  $("#div-opcion" + id).removeClass(
+                    "bs-callout-info callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow"
+                  );
+                  $("#div-bd-inf" + id).removeClass(
+                    "d-flex align-items-center bg-info callout-arrow-right position-relative p-2"
+                  );
+                  $("#i-icon" + id).removeClass(
+                    "fa fa-info white font-medium-5"
+                  );
+                  $("#div-opcion" + id).addClass(
+                    "bs-callout-success callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow"
+                  );
+                  $("#div-bd-inf" + id).addClass(
+                    "d-flex align-items-center bg-success callout-arrow-right position-relative p-2"
+                  );
+                  $("#i-icon" + id).addClass("fa fa-check white font-medium-5");
+                }
+              });
+              pregInconrrectas++;
+            }
+
+            console.log("Corrcetas: " + pregCorrectas);
+            console.log("Corrcetas: " + pregInconrrectas);
+
+            setTimeout(mostPregunta, 3000);
+          },
+          AtrasAreas: function () {
+            $("#div-areas").show();
+            $("#div-asignaturas").hide();
+            $("#btn_AtrasAreas").hide();
+          },
+          AtrasAsig: function () {
+            $("#div-asignaturas").show();
+            $("#div-prueba").hide();
+            $("#btn_AtrasAsig").hide();
+            $("#btn_AtrasAreas").show();
+          },
+          AtrasUnid: function () {
+            $("#Unidades").show();
+            $("#div-prueba").show();
+            $("#div-preguntas").hide();
+            $("#div-opciones").hide();
+            $("#div-resultado").hide();
+            $("#btn_AtrasUnid").hide();
+            $("#btn_AtrasAsig").show();
+            $("#tituloUnidades").html("UNIDADES DE " + $("#nomAsig").val());
+          },
+        });
+
+        $.CargarAreas();
+        function mostPregunta() {
+          console.log(randomElements);
+          const entries = Object.entries(randomElements);
+
+          var preg = "";
+          $("#div-preguntas").html(preg);
+          if (currentIndex < entries.length) {
+            const entry = entries[currentIndex];
+            preg += '<h4 class="primary">' + entry[1]["tema"] + "</h4>";
+            if (entry[1]["enunciado"] != null) {
+              preg += entry[1]["enunciado"];
+            }
+
+            preg += entry[1]["pregunta"];
+            console.log(entry[1]["tema"]);
+            $("#div-preguntas").html(preg);
+            $.MostOpciones(entry[1]["idpreg"]);
+            currentIndex++;
+          } else {
+            $("#div-resultado").show();
+            $("#div-opciones").hide();
+            $("#div-preguntas").hide();
+
+            if (pregCorrectas > 5) {
+              $("#resulMensaje").html("FELICITACIONES");
+              $("#resulMensaje").addClass("success");
+              $("#resulImg").attr("src", "Imagenes/success.png");
+            } else {
+              $("#resulMensaje").html("SIGUE INTENTANDOLO");
+              $("#resulMensaje").addClass("warning");
+              $("#resulImg").attr("src", "Imagenes/fail.png");
+            }
+
+            $("#resulMensajePunt").html(pregCorrectas + "/10");
+            $("#resulCorrectas").html(pregCorrectas);
+            $("#resulInconrrectas").html(pregInconrrectas);
+          }
+        }
+      });
+    </script>
+  </body>
+</html>

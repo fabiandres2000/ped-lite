@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juegos</title>
+    <link rel="stylesheet" href="bootstrap/all.css">
+    <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+    <script src="bootstrap/jquery.min.js"></script>
+    <style>
+        .col-lg-3{
+            height: 230px;
+            cursor: pointer;
+            text-align: center;
+            padding: 5px;
+        }
+
+        #suma {
+            background-color: transparent !important;
+            border-radius: 10px;
+            padding: 10px;
+            height: 100%;
+        }
+
+        #suma p {
+            font-weight: bold;
+            font-size: 25px;
+            color: #612e82  ;
+        }
+
+       .container{
+            padding-top: 50px;
+        }
+
+        body{
+            background: url(iconos/fondo.png);
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
+            color: #fff;
+            height: 100vh;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div onclick="ver_juego(1)" class="col-lg-3">
+                <div id="suma">
+                    <img src="iconos/sumayresta.png" height="100%" alt=""><br>
+                </div>
+            </div>
+            <div onclick="ver_juego(4)" class="col-lg-3">
+                <div  id="suma">
+                    <img src="iconos/multiplicacion.png" height="100%" alt=""><br>
+                </div>
+            </div>
+            <div onclick="ver_juego(2)" class="col-lg-3">
+                <div id="suma">
+                    <img src="iconos/memograma.png" height="100%" alt=""><br>
+                </div>
+            </div>
+            <div onclick="ver_juego(3)" class="col-lg-3">
+                <div id="suma">
+                    <img style="border-radius: 10px;" src="iconos/colores.png" height="100%" alt=""><br>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div onclick="ver_juego(5)" class="col-lg-3">
+                <div  id="suma">
+                    <img src="iconos/division.png" height="100%" alt=""><br>
+                </div>
+            </div>
+            <div onclick="ver_juego(6)" class="col-lg-3">
+                <div  id="suma">
+                    <img src="iconos/ordenar.png" height="100%" alt=""><br>
+                </div>
+            </div>
+            <div onclick="ver_juego(7)" class="col-lg-3">
+                <div  id="suma">
+                    <img src="iconos/ahorcado.png" height="100%" alt=""><br>
+                </div>
+            </div>
+            <div onclick="ver_juego(8)" class="col-lg-3">
+                <div  id="suma">
+                    <img src="iconos/sopa_letras.png" height="100%" alt=""><br>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+                <div id="suma">
+                    
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div id="suma">
+                    
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div id="suma">
+                    
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div id="suma">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function ver_juego(tipo){
+
+            switch (tipo) {
+                case 1:
+                    location.href = "suma/index.html";
+                    break;
+                case 2:
+                    location.href = "memograma/index.html";
+                    break;
+                case 3:
+                    location.href = "colores/index.html";
+                    break;
+                case 4:
+                    location.href = "multiplicacion/index.html";
+                    break;
+                case 5:
+                    location.href = "division/index.html";
+                    break;
+                case 6:
+                    location.href = "ordena_palabra/index.html";
+                    break;
+                case 7:
+                    location.href = "ahorcado/index.html";
+                    break;
+                case 8:
+                    location.href = "sopa_letras/index.html";
+                    break;
+            
+                default:
+                    break;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="estilo.css">
+	<link rel="stylesheet" href="../bootstrap/all.css">
+    <link rel="stylesheet" href="../bootstrap/bootstrap.min.css">
+    <script src="../bootstrap/jquery.min.js"></script>
+	<link rel="stylesheet" href="../fontawesome/css/all.min.css">
+	<script src="../bootstrap/sweetalert.js"></script>
+
+    <link rel="stylesheet" href="estilo.css">
+    
+    <style>
+        button {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body style="padding-top: 20px">
+    <section id="pantalla-inicio" style="padding-top: 120px">
+        <h2>Ordena las <span>letras</span></h2>
+        <h2>y adivina la <span>palabra</span></h2>
+        <button onclick="comenzarJuego()"><i class="fa-solid fa-gamepad"></i> Jugar Ahora</button>
+        <button style="background-color: red; color: aliceblue;" onclick="history.back()"><i class="fa-solid fa-left-long"></i> Volver</button>
+        <div id="categoria" style="opacity: 0;">
+            <div style="background-color: white; border-radius: 15px; padding: 10px">
+                <h3 style="color: black;">Seleccione una Categoria</h3>
+                <hr>
+                <button style="margin-top: 5px" onclick="play(1)" class="round" type="submit"><img width="30px" src="img/pet.png" alt="buttonpng"/> Animales</button>
+                <button style="margin-top: 5px" onclick="play(2)" class="round" type="submit"><img width="30px" src="img/countries.png" alt="buttonpng"/> Paises</button>
+            </div>
+        </div>
+    </section>
+    <section id="pantalla-juego" style="padding-left: 5px; padding-right: 5px">
+        <div class="row">
+            <div class="col-1">a</div>
+            <div class="col-4">
+                <div id="myProgress">
+                    <div id="myBar"></div>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="acertadas" style="color: #14669e">
+                    <i class="fa-solid fa-thumbs-up"></i>
+                    <span id="contador">0</span>
+                </div>
+            </div>
+            <div class="col-5"></div>
+        </div>
+        <br>
+        <br>
+        <div style="padding-top: 20px">
+            <h2>Ordena las <span>letras</span></h2>
+            <h2>y adivina el <span id="tipo_juego"></span></h2>
+            <br>
+            <div class="contenedor-pais" id="pais">
+                <div class="letra">A</div>
+                <div class="letra">E</div>
+                <div class="letra">L</div>
+                <div class="letra">A</div>
+                <div class="letra">M</div>
+                <div class="letra">I</div>
+                <div class="letra">A</div>
+                <div class="letra">N</div>
+            </div>
+        </div>
+    </section>
+    <section id="pantalla-final">
+        <h2>RESULTADO FINAL</h2>
+        <h3 id="resultado">LOGRASTE DESCUBRIR <span id="acertadas">0</span><strong id="tipo_resultado"></strong></h3>
+        <button onclick="comenzar_de_nuevo()">JUGAR OTRA VEZ!</button>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

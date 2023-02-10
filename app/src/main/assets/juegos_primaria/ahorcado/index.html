@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="estilo-ahoracado.css">
+    <link rel="stylesheet" href="../fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="../bootstrap/all.css">
+    <link rel="stylesheet" href="../bootstrap/bootstrap.min.css">
+    <script src="../bootstrap/jquery.min.js"></script>
+    <script src="../bootstrap/sweetalert.js"></script>
+  </head>
+  <body>
+      <div class="main-container">
+        <div class="text-center opciones">
+          <strong>Opciones</strong> 
+          <hr> 
+          <button style="background-color: #4494d4" onclick="inicio()" id="reset">Nueva palabra</button>
+          <button style="background-color: #ee0d3e"onclick="history.back()" id="pista">Volver</button>
+        </div>
+        <h2 class="titulo">Juego del ahorcado</h2>
+        <h2 class="subtitulo">adivina la palabra</h2>
+        <br>
+        <br>
+        <div class="row">
+          <div class="col-3" style="height: 257px; padding: 5px; padding-top: 5px;">
+            <div style=" background-color:#ffffff; border: 1px solid; height: 100%; border-radius: 10px; overflow: hidden; padding-top: 10px;">
+              <img src="img/ahorcado_6.png" alt="" id="image6" style="display: block">
+              <img src="img/ahorcado_5.png" alt="" id="image5" style="display: none">
+              <img src="img/ahorcado_4.png" alt="" id="image4" style="display: none">
+              <img src="img/ahorcado_3.png" alt="" id="image3" style="display: none">
+              <img src="img/ahorcado_2.png" alt="" id="image2" style="display: none">
+              <img src="img/ahorcado_1.png" alt="" id="image1" style="display: none">
+              <img src="img/ahorcado_0.png" alt="" id="image0" style="display: none">
+            </div> 
+          </div>
+          <div class="col-7" style="padding-top: 5px; padding-bottom: 5px; padding-left: 9px; padding-right: 9px;">
+            <div style=" background-color:#ecf0f1; border: 1px solid; border-radius: 10px;">
+              <div class="col">
+                <div class="flex-row" id="abcdario">
+                </div>
+              </div>
+              <div class="col"></div>
+            </div>
+          </div>
+          
+        </div>
+        <br>
+        <button class="pista" style="background-color: #ffe600" onclick="pista()" id="pista"><i style="color: black" class="fa-solid fa-lightbulb fa-2x"></i></button>
+        <div>
+          <h2 class="palabra" id="palabra"></h2>
+        </div>
+        <div id="turnos">
+          <div class="col">
+            <h3>Intentos restantes: <span id="intentos">6</span></h3>
+          </div>
+        </div>
+        <h3 id="acierto"></h3>
+      </div>
+    <script src="ahorcado.js"></script>
+  </body>
+</html>

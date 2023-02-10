@@ -1,0 +1,1039 @@
+[ 
+{ 
+"idcont":167,
+"titu_contenido":"ORIGEN DE LA CÁTEDRA DE LA PAZ",
+"objetivo_general":"Reconocer los orígenes de la cÁtedra de la paz.",
+"unidad":"39"
+},
+{ 
+"idcont":168,
+"titu_contenido":"DEFINICIÓN DE LA PAZ",
+"objetivo_general":"Sensibilizar sobre los términos de la paz, para comprender nuestra cultura.",
+"unidad":"39"
+},
+{ 
+"idcont":169,
+"titu_contenido":"HISTORIA DE LA PAZ",
+"objetivo_general":"Aportar elementos epistemológicos y metodológicos sobre la paz, los conflictos y la violencia.",
+"unidad":"39"
+},
+{ 
+"idcont":170,
+"titu_contenido":"CULTURA DE PAZ",
+"objetivo_general":"Construir la cooperación sobre la cultura de la paz para un beneficio equitativo y mutuo.",
+"unidad":"39"
+},
+{ 
+"idcont":171,
+"titu_contenido":"PERSONAJES CONSTRUCTORES DE LA PAZ",
+"objetivo_general":"Participar en diferentes expresiones culturales, sobre deberes y derechos que contribuyan a la paz.",
+"unidad":"39"
+},
+{ 
+"idcont":172,
+"titu_contenido":"PODER DE LA PALABRA",
+"objetivo_general":"Conocer las actitudes que propician la verdadera comunicación.",
+"unidad":"40"
+},
+{ 
+"idcont":173,
+"titu_contenido":"EL DIÁLOGO",
+"objetivo_general":"Promover el dialogo en los espacios escolares, en casa, etc. Para la solución de conflicto.",
+"unidad":"40"
+},
+{ 
+"idcont":174,
+"titu_contenido":"PAZ Y ÉTICA",
+"objetivo_general":"Asimilar la terminología de paz y ética.",
+"unidad":"40"
+},
+{ 
+"idcont":175,
+"titu_contenido":"FACTORES QUE AFECTAN LA CONVIVENCIA",
+"objetivo_general":"Reconocer los factores que afectan la convivencia.",
+"unidad":"40"
+},
+{ 
+"idcont":176,
+"titu_contenido":"PODER DE LAS DISCULPAS",
+"objetivo_general":"Reconocer el valor de laS disculpas para la solución de conflicto.",
+"unidad":"41"
+},
+{ 
+"idcont":177,
+"titu_contenido":"LENGUAJE NO VERBAL",
+"objetivo_general":"Valorar el lenguaje no verbal como medio para expresarse de manera asertiva",
+"unidad":"41"
+},
+{ 
+"idcont":178,
+"titu_contenido":"RESPETO POR LA OPINIÓN DE LOS DEMÁS",
+"objetivo_general":"Reconoce las diferencias de opinión y la respeta así no las comporta.",
+"unidad":"41"
+},
+{ 
+"idcont":179,
+"titu_contenido":"RELACIONES INTERPERSONALES",
+"objetivo_general":"Reconocer como el desarrollo de las relaciones interpersonales es necesario para la construcción de la paz.",
+"unidad":"41"
+},
+{ 
+"idcont":180,
+"titu_contenido":"LA INCLUSIÓN",
+"objetivo_general":"Comprender la necesidad de reconocer e incluir la diferencia y maneras de ser de sus parTes.",
+"unidad":"41"
+},
+{ 
+"idcont":181,
+"titu_contenido":"CONSTRUCTORES DE PAZ",
+"objetivo_general":"Construir un proyecto de vida basado en principios de constructores de paz.",
+"unidad":"42"
+},
+{ 
+"idcont":182,
+"titu_contenido":"DEBERES Y DERECHO DE LA FAMILIA",
+"objetivo_general":"Reconocer y aplicar los deberes y derecho de la familia.",
+"unidad":"42"
+},
+{ 
+"idcont":183,
+"titu_contenido":"DEBERES Y DERECHO DE MI ESCUELA",
+"objetivo_general":"Reconocer y aplicar los deberes y derechos de mi escuela.",
+"unidad":"42"
+},
+{ 
+"idcont":198,
+"titu_contenido":"DEBERES Y DERECHO DEL CIUDADANO",
+"objetivo_general":"Reconocer y aplicar los deberes y derecho como ciudadanos que somos.",
+"unidad":"42"
+},
+{ 
+"idcont":201,
+"titu_contenido":"LA NEGOCIACIÓN",
+"objetivo_general":"Utilizar acciones concretas en el aula para mejorar el dialogo y las relaciones con sus compañeros con el fin de evitar conflictos y generar paz.",
+"unidad":"42"
+},
+{ 
+"idcont":705,
+"titu_contenido":"LA NARRACIÓN",
+"objetivo_general":"Aumentar el conocimiento en la literatura española, específicamente la narrativa.",
+"unidad":"160"
+},
+{ 
+"idcont":706,
+"titu_contenido":"EL SUSTANTIVO",
+"objetivo_general":"Reconocer cuál es el sustantivo en la oración.",
+"unidad":"160"
+},
+{ 
+"idcont":709,
+"titu_contenido":"PRONOMBRES",
+"objetivo_general":"Reconocer e identificar los pronombre y sustantivos según su uso.",
+"unidad":"160"
+},
+{ 
+"idcont":710,
+"titu_contenido":"CONCORDANCIA ENTRE ARTÍCULO, SUSTANTIVO Y ADJETIVOS",
+"objetivo_general":"Escribir de forma correcta la concordancia entre el  artículo, sustantivo y adjetivos.",
+"unidad":"160"
+},
+{ 
+"idcont":711,
+"titu_contenido":"USO DE LA MAYÚSCULA",
+"objetivo_general":"Reconoce el uso de la mayúscula en un escrito.",
+"unidad":"161"
+},
+{ 
+"idcont":713,
+"titu_contenido":"USO DE LA COMA",
+"objetivo_general":"Utilizar de manera correcta los signos de puntuación (El uso de la coma).",
+"unidad":"161"
+},
+{ 
+"idcont":717,
+"titu_contenido":"SUFIJO Y PREFIJO",
+"objetivo_general":"Identificar y Reconocer qué es un sufijo y prefijo.",
+"unidad":"162"
+},
+{ 
+"idcont":718,
+"titu_contenido":"HISTORIETA",
+"objetivo_general":"Identificar las características de una historieta.",
+"unidad":"164"
+},
+{ 
+"idcont":720,
+"titu_contenido":"EL CUENTO",
+"objetivo_general":"Reavivar la costumbres de narrar y escuchar cuentos para desarrollar la creatividad e imaginación de los niños.",
+"unidad":"165"
+},
+{ 
+"idcont":722,
+"titu_contenido":"LA LEYENDA",
+"objetivo_general":"Conocer el origen de los  mitos y leyendas por la valiosa aportación cultural que representa para un país.",
+"unidad":"165"
+},
+{ 
+"idcont":723,
+"titu_contenido":"EL MITO",
+"objetivo_general":"Conocer el origen de los  mitos y leyendas por la valiosa aportación cultural que representa para un país.",
+"unidad":"165"
+},
+{ 
+"idcont":725,
+"titu_contenido":"LA NOVELA",
+"objetivo_general":"Reconocer las características, estructura  de la novela",
+"unidad":"165"
+},
+{ 
+"idcont":729,
+"titu_contenido":"EL VERBO",
+"objetivo_general":"Aprender que es un  verbo y como se conjugan en los diferentes tiempos; presente, pasado, futuro.",
+"unidad":"166"
+},
+{ 
+"idcont":732,
+"titu_contenido":"VERBO- CONJUGACIÓN DE VERBOS",
+"objetivo_general":"Aprender a conjugar los verbos en los diferentes tiempos; presente, pasado, futuro.",
+"unidad":"166"
+},
+{ 
+"idcont":734,
+"titu_contenido":"ADJETIVO",
+"objetivo_general":"Usar adecuadamente el adjetivo para describir dibujos animados, personas y objetos del aula de clase.",
+"unidad":"166"
+},
+{ 
+"idcont":735,
+"titu_contenido":"USO DEL ARTÍCULO",
+"objetivo_general":"Conocer y aplicar el uso correcto de los artículos.",
+"unidad":"166"
+},
+{ 
+"idcont":736,
+"titu_contenido":"LA PREPOSICIÓN",
+"objetivo_general":"Conocer la importancia que tienen las preposiciones en las oraciones y el uso de ellas.",
+"unidad":"166"
+},
+{ 
+"idcont":737,
+"titu_contenido":"CONJUNCIÓN",
+"objetivo_general":"Relacionar de forma correcta  el nexo  entre los diferentes elementos lingüísticos que se agrupan con el objetivo de formar unidades más amplias.",
+"unidad":"166"
+},
+{ 
+"idcont":738,
+"titu_contenido":"DIPTONGO, TRIPTONGO E HIATO",
+"objetivo_general":"Clasificar las diferentes concurrencias vocálicas.",
+"unidad":"168"
+},
+{ 
+"idcont":740,
+"titu_contenido":"TILDE DIACRÍTCA",
+"objetivo_general":"Saber el uso correspondiente de la tilde diacrítica.",
+"unidad":"168"
+},
+{ 
+"idcont":741,
+"titu_contenido":"PALABRAS POLISEMICAS",
+"objetivo_general":"Reconocer  cuáles son las oraciones que llevan  palabras polisemias.",
+"unidad":"168"
+},
+{ 
+"idcont":743,
+"titu_contenido":"EL PERIÓDICO",
+"objetivo_general":"Entender la importancia comunicativa del periódico y la noticia.",
+"unidad":"170"
+},
+{ 
+"idcont":744,
+"titu_contenido":"GÉNERO LIRÍCO",
+"objetivo_general":"Conocer las características esenciales del género lírico.",
+"unidad":"172"
+},
+{ 
+"idcont":747,
+"titu_contenido":"FIGURAS LITERARIAS",
+"objetivo_general":"Identificar una figura literaria dentro de un texto ya sea explicativo, de opinión o poético.",
+"unidad":"172"
+},
+{ 
+"idcont":749,
+"titu_contenido":"POEMA",
+"objetivo_general":"Identificar los rasgos y los elementos característicos de un verso y estrofa.",
+"unidad":"172"
+},
+{ 
+"idcont":750,
+"titu_contenido":"ORACIÓN Y SUS PARTES",
+"objetivo_general":"Identificar cual es el sujeto y el predicado en una oración.",
+"unidad":"174"
+},
+{ 
+"idcont":754,
+"titu_contenido":"CONCORDANCIA NOMINAL",
+"objetivo_general":"Comprender la importancia de la concordancia entre las palabras.",
+"unidad":"174"
+},
+{ 
+"idcont":756,
+"titu_contenido":"CONCORDANCIA VERBAL",
+"objetivo_general":"Comprender la importancia de la concordancia entre las palabras.",
+"unidad":"174"
+},
+{ 
+"idcont":757,
+"titu_contenido":"ORACIÓN SIMPLE Y ORACIÓN COMPUESTA",
+"objetivo_general":"Aprender a diferenciar los conceptos de oración simple y oración compuesta.",
+"unidad":"174"
+},
+{ 
+"idcont":759,
+"titu_contenido":"ACENTUACIÓN DE PALABRAS",
+"objetivo_general":"Lograr que el alumno conozca e identifique el acento y cuando debe agregar tilde.",
+"unidad":"175"
+},
+{ 
+"idcont":760,
+"titu_contenido":"USO DE LOS DOS PUNTOS",
+"objetivo_general":"Practicar el uso de los dos puntos para lograr una redacción que exprese con eficacia lo que deseamos comunicar.",
+"unidad":"175"
+},
+{ 
+"idcont":762,
+"titu_contenido":"LA CARTA",
+"objetivo_general":"Aprender a redactar una carta con sus respectivas partes.",
+"unidad":"176"
+},
+{ 
+"idcont":763,
+"titu_contenido":"EL TEATRO",
+"objetivo_general":"Desarrollar  los elementos del teatro, tales como: El lenguaje dramático, la expresión dramática, la comunicación grupal, La creación a través del juego teatral.",
+"unidad":"177"
+},
+{ 
+"idcont":766,
+"titu_contenido":"GUIÓN TEATRAL",
+"objetivo_general":"Identifica el contexto en que se crea una obra literaria y lo relaciona con los conocimientos que tiene sobre él.",
+"unidad":"177"
+},
+{ 
+"idcont":767,
+"titu_contenido":"EL PÁRRAFO",
+"objetivo_general":"Reconocer las característica y la estructura de un párrafo.",
+"unidad":"178"
+},
+{ 
+"idcont":768,
+"titu_contenido":"CLASES DE PÁRRAFOS",
+"objetivo_general":"Reconocer las característica y la estructura de un párrafo.",
+"unidad":"178"
+},
+{ 
+"idcont":769,
+"titu_contenido":"CONJUGACIÓN DE VERBO",
+"objetivo_general":"Aprender a conjugar los verbos en los diferentes tiempos; presente, pasado, futuro.",
+"unidad":"178"
+},
+{ 
+"idcont":770,
+"titu_contenido":"USO DE COMILLAS",
+"objetivo_general":"Conocer las reglas que rigen el uso de las comillas.",
+"unidad":"178"
+},
+{ 
+"idcont":771,
+"titu_contenido":"LOS GESTOS",
+"objetivo_general":"Conocer la mímica y la imitación como parte de expresión, comunicación no verbal y lenguaje corporal.",
+"unidad":"179"
+},
+{ 
+"idcont":776,
+"titu_contenido":"COMUNICACIÓN NO VERBAL: SEÑALES DE TRANSITO",
+"objetivo_general":"Implementar actividades de aprendizaje para la prevención de accidentes de tránsito.",
+"unidad":"179"
+},
+{ 
+"idcont":779,
+"titu_contenido":"LOS DIALECTOS",
+"objetivo_general":"Identificar y situar las diferentes variedades dialectales del castellano.",
+"unidad":"179"
+},
+{ 
+"idcont":1131,
+"titu_contenido":"NIVELES DE ORGANIZACIÓN DE LOS SERES VIVOS",
+"objetivo_general":"Reconocer los niveles de organización de los seres vivos.",
+"unidad":"232"
+},
+{ 
+"idcont":1132,
+"titu_contenido":"EL MICROSCOPIO",
+"objetivo_general":"Comprender las partes físicas del microscopio, los diferentes tipos de microscopios y sus diferentes aplicaciones.",
+"unidad":"232"
+},
+{ 
+"idcont":1133,
+"titu_contenido":"LA CÉLULA",
+"objetivo_general":"Conocer la célula como unidad estructural y funcional de todo ser vivo.",
+"unidad":"232"
+},
+{ 
+"idcont":1134,
+"titu_contenido":"ESTRUCTURA DE LA CÉLULA",
+"objetivo_general":"Identificar la importancia y la estructura de la célula en los seres vivos.",
+"unidad":"232"
+},
+{ 
+"idcont":1135,
+"titu_contenido":"CLASES DE CÉLULA",
+"objetivo_general":"Reconocer las clases de célula y sus partes.",
+"unidad":"232"
+},
+{ 
+"idcont":1136,
+"titu_contenido":"LA CÉLULA VEGETAL Y ANIMAL",
+"objetivo_general":"Establecer comparaciones entre célula animal y vegetal.",
+"unidad":"232"
+},
+{ 
+"idcont":1137,
+"titu_contenido":"FUNCIONES VITALES DE LA CÉLULA",
+"objetivo_general":"Identifica en la célula  la realización de las funciones vitales.",
+"unidad":"232"
+},
+{ 
+"idcont":1138,
+"titu_contenido":"FUNCIONES VITALES DE PLANTAS",
+"objetivo_general":"Identificar cuáles son las funciones vitales de las plantas",
+"unidad":"232"
+},
+{ 
+"idcont":1139,
+"titu_contenido":"CLASIFICACIÓN DE LAS PLANTAS",
+"objetivo_general":"Conocer las clasificaciones de las plantas.",
+"unidad":"232"
+},
+{ 
+"idcont":1140,
+"titu_contenido":"SISTEMAS Y ÓRGANOS DE LAS PLANTAS",
+"objetivo_general":"Conocer la organización de las diferentes partes que componen el cuerpo de la planta: sus estructuras vegetativas y reproductivas.",
+"unidad":"232"
+},
+{ 
+"idcont":1142,
+"titu_contenido":"FUNCIONES VITALES DE LOS ANIMALES",
+"objetivo_general":"Conocer las características de los seres vivos y describir las funciones vitales.",
+"unidad":"232"
+},
+{ 
+"idcont":1143,
+"titu_contenido":"CLASIFICACIÓN DE LOS ANIMALES",
+"objetivo_general":"Clasificar los organismos del reino animal en vertebrados e invertebrados.",
+"unidad":"232"
+},
+{ 
+"idcont":1144,
+"titu_contenido":"EL  CUERPO HUMANO",
+"objetivo_general":"Reconocer las diferentes partes de su cuerpo y su funcionamiento.",
+"unidad":"233"
+},
+{ 
+"idcont":1145,
+"titu_contenido":"SISTEMA DIGESTIVO",
+"objetivo_general":"Identificar los órganos propios y anexos que componen el sistema digestivo.",
+"unidad":"233"
+},
+{ 
+"idcont":1146,
+"titu_contenido":"GLÁNDULAS ANEXAS DEL SISTEMA DIGESTIVO",
+"objetivo_general":"Identificar las fisiologías de las glándulas anexas.",
+"unidad":"233"
+},
+{ 
+"idcont":1147,
+"titu_contenido":"SISTEMA RESPIRATORIO",
+"objetivo_general":"Con tus conocimientos previos escribe que entiendes por respiración.",
+"unidad":"233"
+},
+{ 
+"idcont":1148,
+"titu_contenido":"SISTEMA CIRCULATORIO",
+"objetivo_general":"Conocer el funcionamiento del Sistema circulatorio en los seres humanos.",
+"unidad":"233"
+},
+{ 
+"idcont":1149,
+"titu_contenido":"SISTEMA NERVIOSO",
+"objetivo_general":"Comprender e interpretar las partes y las funciones del sistema nervioso humano.",
+"unidad":"233"
+},
+{ 
+"idcont":1150,
+"titu_contenido":"SISTEMA EXCRETOR",
+"objetivo_general":"Conocer las partes y función del sistema excretor",
+"unidad":"233"
+},
+{ 
+"idcont":1151,
+"titu_contenido":"SISTEMA REPRODUTOR FEMENINO Y MASCULINO",
+"objetivo_general":"Identificar los principales órganos del Sistema Reproductor femenino y masculino.",
+"unidad":"233"
+},
+{ 
+"idcont":1152,
+"titu_contenido":"SISTEMA ÓSEO",
+"objetivo_general":"Identificar y describir las estructuras y funciones del sistema óseo.",
+"unidad":"233"
+},
+{ 
+"idcont":1153,
+"titu_contenido":"RELACIÓN ENTRE APARATOS Y SISTEMAS",
+"objetivo_general":"¿Crees que es importante cuidar nuestro cuerpo humano?",
+"unidad":"233"
+},
+{ 
+"idcont":1154,
+"titu_contenido":"ELECTRICIDAD",
+"objetivo_general":"Reconocer el concepto de electricidad.",
+"unidad":"234"
+},
+{ 
+"idcont":1155,
+"titu_contenido":"CIRCUITOS ELÉCTRICOS",
+"objetivo_general":"Conocer los elementos básicos de los circuitos eléctricos.",
+"unidad":"234"
+},
+{ 
+"idcont":1156,
+"titu_contenido":"TIPOS DE CIRCUITOS ELÉCTRICOS.",
+"objetivo_general":"Comprender el funcionamiento de un circuito eléctrico, serie, paralelo y mixto.",
+"unidad":"234"
+},
+{ 
+"idcont":1157,
+"titu_contenido":"TIPOS DE CORRIENTES",
+"objetivo_general":"Conocer los elementos básicos de los circuitos eléctricos.",
+"unidad":"234"
+},
+{ 
+"idcont":1158,
+"titu_contenido":"PILAS Y BATERÍAS",
+"objetivo_general":"Conocer el funcionamiento de las pilas y baterías.",
+"unidad":"234"
+},
+{ 
+"idcont":1159,
+"titu_contenido":"AHORRO DE ENERGÍA ELÉCTRICA",
+"objetivo_general":"Identificar la importancia de ahorrar energía eléctrica para ayudar al cuidado del medio ambiente.",
+"unidad":"234"
+},
+{ 
+"idcont":1160,
+"titu_contenido":"LOS PARARRAYOS –LOS RAYOS",
+"objetivo_general":"Conocer el concepto de pararrayos y rayos.c",
+"unidad":"234"
+},
+{ 
+"idcont":1161,
+"titu_contenido":"DESCARGAS ELÉCTRICAS.",
+"objetivo_general":"CONOCER EL CONCEPTO DE DESCARGA ELÉCTRICA.",
+"unidad":"234"
+},
+{ 
+"idcont":1162,
+"titu_contenido":"LOS ELECTROIMANES.",
+"objetivo_general":"Conocer el concepto de que es un electroimán.",
+"unidad":"234"
+},
+{ 
+"idcont":1163,
+"titu_contenido":"EL ELECTROMAGNETISMO",
+"objetivo_general":"Conocer en qué consiste el electromagnetismo.",
+"unidad":"234"
+},
+{ 
+"idcont":1164,
+"titu_contenido":"EL ÁTOMO",
+"objetivo_general":"Conocer la historia del átomo.",
+"unidad":"235"
+},
+{ 
+"idcont":1165,
+"titu_contenido":"LA MATERIA Y SUS PROPIEDADES",
+"objetivo_general":"Reconoce y distingue las propiedades de la materia.",
+"unidad":"235"
+},
+{ 
+"idcont":1166,
+"titu_contenido":"CLASIFICACIÓN DE LA MATERIA",
+"objetivo_general":"Reconoce y distingue la clasificación de la materia.",
+"unidad":"235"
+},
+{ 
+"idcont":1167,
+"titu_contenido":"ESTADOS DE LA MATERIA",
+"objetivo_general":"Conocer los estados de la materia en el mundo que nos rodea.",
+"unidad":"235"
+},
+{ 
+"idcont":1168,
+"titu_contenido":"FENÓMENOS FÍSICOS Y QUÍMICOS DE LA MATERIA",
+"objetivo_general":"Observar los fenómenos físicos y químicos que se producen sobre la materia.",
+"unidad":"235"
+},
+{ 
+"idcont":1169,
+"titu_contenido":"HISTORIA DE LA TABLA PERIÓDICA",
+"objetivo_general":"Conocer cómo se clasifican los elementos en la tabla periódica.",
+"unidad":"235"
+},
+{ 
+"idcont":1170,
+"titu_contenido":"TABLA PERIÓDICA",
+"objetivo_general":"Conocer los elementos de la tabla periódica.",
+"unidad":"235"
+},
+{ 
+"idcont":1171,
+"titu_contenido":"CLASIFICACIÓN DE LOS ELEMENTOS",
+"objetivo_general":"Aprender a clasificar los elementos en metales, no metales y gases nobles.",
+"unidad":"235"
+},
+{ 
+"idcont":1172,
+"titu_contenido":"CONFIGURACIÓN ELECTRONICA",
+"objetivo_general":"Aprender a representar la estructura atómica de los átomos.",
+"unidad":"235"
+},
+{ 
+"idcont":1247,
+"titu_contenido":"COMMANDS sit down, stand up, open, close, silence, color, Open, color pictures, close your book",
+"objetivo_general":"Reconocerá y entenderá pequeñas instrucciones dadas en inglés.",
+"unidad":"252"
+},
+{ 
+"idcont":1248,
+"titu_contenido":"VERB TO BE I am, you are, he – she- it is, we are, they are…",
+"objetivo_general":"identificar el verbo To Be y su correcto uso con el pronombre adecuado.",
+"unidad":"252"
+},
+{ 
+"idcont":1249,
+"titu_contenido":"PERSONAL INFORMATION",
+"objetivo_general":"preguntará y dará información personal de forma escrita y oral usando el vocabulario básico.",
+"unidad":"252"
+},
+{ 
+"idcont":1250,
+"titu_contenido":"PARTS OF THE BODY",
+"objetivo_general":"reconocerá las partes de nuestro cuerpo y su pronunciación en inglés.",
+"unidad":"252"
+},
+{ 
+"idcont":1251,
+"titu_contenido":"WH QUESTIONS",
+"objetivo_general":"preguntará y dará información personal de forma escrita y escrita usando el vocabulario básico.",
+"unidad":"252"
+},
+{ 
+"idcont":1252,
+"titu_contenido":"THE CLOTHES",
+"objetivo_general":"Identificará y reconocerá las diferentes prendas de vestir.",
+"unidad":"253"
+},
+{ 
+"idcont":1253,
+"titu_contenido":"ADJECTIVES",
+"objetivo_general":"reconocerá el adjetivo correcto para identificar personas, cosas, animales, objetos etc.",
+"unidad":"253"
+},
+{ 
+"idcont":1254,
+"titu_contenido":"PLACES AND OCUPATIONS",
+"objetivo_general":"Usará el vocabulario adecuado cuando se habla acerca de las ocupaciones y lugares de trabajo.",
+"unidad":"253"
+},
+{ 
+"idcont":1255,
+"titu_contenido":"THERE IS THERE ARE",
+"objetivo_general":"utilizará there is, there are teniendo en cuenta el sujeto de la oración.",
+"unidad":"253"
+},
+{ 
+"idcont":1256,
+"titu_contenido":"THE CLOCK",
+"objetivo_general":"aprenderá a preguntar y decir la hora en inglés.",
+"unidad":"255"
+},
+{ 
+"idcont":1257,
+"titu_contenido":"DAILY ROUTINE",
+"objetivo_general":"explicará de manera oral y escrita su rutina diaria.",
+"unidad":"255"
+},
+{ 
+"idcont":1258,
+"titu_contenido":"FOOD",
+"objetivo_general":"reconocerá el vocabulario correcto y la pronunciación de los alimentos.",
+"unidad":"255"
+},
+{ 
+"idcont":1259,
+"titu_contenido":"LIKES AND DISLIKES.",
+"objetivo_general":"hablará de forma oral y escrita acerca de sus preferencias.",
+"unidad":"255"
+},
+{ 
+"idcont":1260,
+"titu_contenido":"MY HOUSE",
+"objetivo_general":"explicará de manera oral y escrita las partes de la casa y su debida pronunciación en inglés.",
+"unidad":"256"
+},
+{ 
+"idcont":1261,
+"titu_contenido":"DEMONSTRATIVE",
+"objetivo_general":"utilizará en forma adecuada los pronombres demostrativos para señalar la ubicación de las personas, animales o cosas",
+"unidad":"256"
+},
+{ 
+"idcont":1262,
+"titu_contenido":"FEELINGS",
+"objetivo_general":"hablará acerca de sus emociones y las reconocerá en su entorno.",
+"unidad":"256"
+},
+{ 
+"idcont":1263,
+"titu_contenido":"ANIMALS VOCABULARY",
+"objetivo_general":"reconocerá la escritura de los animales y su correcta pronunciación de acuerdo a el vocabulario.",
+"unidad":"256"
+},
+{ 
+"idcont":1897,
+"titu_contenido":"ADICCIÓN Y SUSTRACCIÓN DE NÚMEROS NATURALES",
+"objetivo_general":"Resolver y formular problemas, cuya estrategia de solución requiere de las relaciones y propiedades de los números naturales y sus operaciones.",
+"unidad":"370"
+},
+{ 
+"idcont":1898,
+"titu_contenido":"MULTIPLICACIÓN DE NÚMEROS NATUALES",
+"objetivo_general":"Entender la multiplicación como suma de sumandos iguales.",
+"unidad":"370"
+},
+{ 
+"idcont":1899,
+"titu_contenido":"DIVISIÓN DE NÚMEROS NATURALES",
+"objetivo_general":"Reconocer el nombre de los elementos o términos de una división, e identificar que hay divisiones exactas y otras que tienen resto.",
+"unidad":"370"
+},
+{ 
+"idcont":1900,
+"titu_contenido":"POTENCIACIÓN",
+"objetivo_general":"Conocer el concepto de potencias.",
+"unidad":"370"
+},
+{ 
+"idcont":1901,
+"titu_contenido":"MÚLTIPLOS DE UN NÚMERO",
+"objetivo_general":"Reconocer los conceptos de múltiplos y divisor de un número.",
+"unidad":"370"
+},
+{ 
+"idcont":1902,
+"titu_contenido":"DIVISORES DE UN NÚMERO",
+"objetivo_general":"Identificar relaciones de divisibilidad entre números naturales y reconocer si un número es múltiplo o divisor de otro número dado.",
+"unidad":"370"
+},
+{ 
+"idcont":1903,
+"titu_contenido":"CRITERIOS DE DIVISIBILIDAD",
+"objetivo_general":"Identificar relaciones de divisibilidad entre números naturales y reconocer si un número es múltiplo o divisor de otro número dado.",
+"unidad":"370"
+},
+{ 
+"idcont":1904,
+"titu_contenido":"NÚMEROS PRIMOS Y COMPUESTOS",
+"objetivo_general":"Adquirir las estrategias que permiten diferenciar los números primos de los compuestos.",
+"unidad":"252"
+},
+{ 
+"idcont":1905,
+"titu_contenido":"NÚMEROS PRIMOS Y COMPUESTOS",
+"objetivo_general":"Adquirir las estrategias que permiten diferenciar los números primos de los compuestos.",
+"unidad":"370"
+},
+{ 
+"idcont":1906,
+"titu_contenido":"MÍNIMO COMÚN MÚLTIPLO Y MÁXIMO COMÚN DIVISOR",
+"objetivo_general":"Reconocer y calcular el mcm y el MCD por descomposición factorial de los números.",
+"unidad":"370"
+},
+{ 
+"idcont":1907,
+"titu_contenido":"LAS FRACCIONES Y SUS TÉRMINOS",
+"objetivo_general":"Identificar los términos de una fracción.",
+"unidad":"371"
+},
+{ 
+"idcont":1908,
+"titu_contenido":"FRACCIONES EQUIVALENTES",
+"objetivo_general":"Recordar el concepto de fracciones equivalentes.",
+"unidad":"371"
+},
+{ 
+"idcont":1909,
+"titu_contenido":"ADICCIÓN Y SUSTRACCIÓN DE FRACCIONES HOMOGÉNEAS",
+"objetivo_general":"Realizar las operaciones de suma y resta de fracciones homogéneas",
+"unidad":"371"
+},
+{ 
+"idcont":1910,
+"titu_contenido":"ADICIÓN Y SUSTRACCIÓN DE FRACCIONES HETEROGÉNEAS",
+"objetivo_general":"Reconocer y representar fracciones con distinto denominador.",
+"unidad":"371"
+},
+{ 
+"idcont":1911,
+"titu_contenido":"MULTIPLICACIÓN DE FRACCIONES",
+"objetivo_general":"Reconocer situaciones que se resuelvan mediante la utilización de la multiplicación y división de fracciones.",
+"unidad":"371"
+},
+{ 
+"idcont":1912,
+"titu_contenido":"DIVISIÓN DE FRACCIONES",
+"objetivo_general":"Reconocer situaciones que se resuelvan mediante la utilización de la multiplicación y división de fracciones.",
+"unidad":"371"
+},
+{ 
+"idcont":1913,
+"titu_contenido":"FRACCIONES DECIMALES Y NÚMEROS DECIMALES",
+"objetivo_general":"Conocer la relación existente entre los números decimales y sus fracciones generatrices.",
+"unidad":"371"
+},
+{ 
+"idcont":1914,
+"titu_contenido":"LECTURA Y ESCRITURA DE NÚMEROS",
+"objetivo_general":"Leer y escribir con palabras números decimales.",
+"unidad":"371"
+},
+{ 
+"idcont":1915,
+"titu_contenido":"ORDEN DE LOS NÚMEROS DECIMALES",
+"objetivo_general":"Identificar los órdenes decimales existentes: décima, centésima y milésima.",
+"unidad":"371"
+},
+{ 
+"idcont":1916,
+"titu_contenido":"ADICIÓN Y SUSTRACCIÓN DE UN NÚMERO DECIMAL",
+"objetivo_general":"Resolver problemas utilizando la suma, resta, multiplicación y/o división y aproximaciones de números  decimales siguiendo un procedimiento adecuado.",
+"unidad":"371"
+},
+{ 
+"idcont":1917,
+"titu_contenido":"MULTIPLICACIÓN Y DIVISIÓN DE DECIMALES",
+"objetivo_general":"Resolver problemas utilizando la suma, resta, multiplicación y/o división y aproximaciones de números  decimales siguiendo un procedimiento adecuado.",
+"unidad":"371"
+},
+{ 
+"idcont":1918,
+"titu_contenido":"MEDICIÓN Y CLASIFICACIÓN DE ÁNGULOS.",
+"objetivo_general":"Reconocer, estimar y medir ángulos. Reconocer los tipos de ángulos y las unidades en que estos se miden.",
+"unidad":"372"
+},
+{ 
+"idcont":1919,
+"titu_contenido":"RECTAS PARALELAS Y PERPENDICULARES.",
+"objetivo_general":"Comprender las características de la Recta.",
+"unidad":"372"
+},
+{ 
+"idcont":1920,
+"titu_contenido":"POLÍGONOS Y SU CLASIFICACIÓN",
+"objetivo_general":"Distinguir polígonos y polígonos regulares: descripción de sus elementos y clasificación.",
+"unidad":"372"
+},
+{ 
+"idcont":1921,
+"titu_contenido":"MOVIMIENTOS EN EL PLANO",
+"objetivo_general":"Reconocer y aplicar traslaciones y giros sobre una ﬁgura u objeto en el plano.",
+"unidad":"372"
+},
+{ 
+"idcont":1922,
+"titu_contenido":"LOS PRISMAS",
+"objetivo_general":"Recordarás la clasificación de los prismas,  también las fórmulas para calcular área y volumen.",
+"unidad":"372"
+},
+{ 
+"idcont":1923,
+"titu_contenido":"LAS PIRÁMIDES",
+"objetivo_general":"Reconocer la definición y clasificación de pirámides, y las fórmulas para calcular altura, apotema, área y volumen.",
+"unidad":"372"
+},
+{ 
+"idcont":1924,
+"titu_contenido":"LOS POLIEDROS REGULARES",
+"objetivo_general":"Clasificar y conocer los poliedros.",
+"unidad":"372"
+},
+{ 
+"idcont":1925,
+"titu_contenido":"CUERPOS REDONDOS",
+"objetivo_general":"Reconocer los diferentes cuerpos geométricos",
+"unidad":"372"
+},
+{ 
+"idcont":1926,
+"titu_contenido":"UNIDADES DE MEDIDAS",
+"objetivo_general":"Reconocer el metro, gramo y litro como unidad fundamental de medida de la longitud, masa y capacidad respectivamente.",
+"unidad":"372"
+},
+{ 
+"idcont":1927,
+"titu_contenido":"TABLA DE FRECUENCIAS",
+"objetivo_general":"Entender cómo funcionan las tablas de frecuencia.",
+"unidad":"373"
+},
+{ 
+"idcont":1928,
+"titu_contenido":"GRAFICAS DE BARRAS Y DE LÍNEAS",
+"objetivo_general":"Reconocer ejemplos de gráficas de barras, de líneas.",
+"unidad":"373"
+},
+{ 
+"idcont":1929,
+"titu_contenido":"MEDIA, MEDIANA Y MODA",
+"objetivo_general":"Identificar, calcular y comparar, las medidas de tendencia central para datos desagrupados y agrupados.",
+"unidad":"373"
+},
+{ 
+"idcont":1930,
+"titu_contenido":"PROBABILIDAD DE UN EVENTO",
+"objetivo_general":"Reconocer y manejar con facilidad los conceptos básicos de la teoría de la probabilidad.",
+"unidad":"373"
+},
+{ 
+"idcont":1931,
+"titu_contenido":"PORCENTAJE",
+"objetivo_general":"Demostrar que comprenden el concepto de porcentaje de manera concreta, pictórica y simbólica.",
+"unidad":"373"
+},
+{ 
+"idcont":1932,
+"titu_contenido":"LA DEMOCRACIA Y OTRAS FORMAS DE GOBIERNO",
+"objetivo_general":"Conocer cuáles son las distintas formas de gobierno que existen.",
+"unidad":"374"
+},
+{ 
+"idcont":1933,
+"titu_contenido":"CARACTERÍSTICAS DE LA DEMOCRACIA",
+"objetivo_general":"Distinguir las características de la democracia y promover conocimientos, habilidades, destrezas y actitudes que contribuyan a la formación de personalidades democráticas de los estudiantes.",
+"unidad":"374"
+},
+{ 
+"idcont":1934,
+"titu_contenido":"GOBIERNO ESCOLAR",
+"objetivo_general":"Identificar cuáles son los elementos que componen el gobierno escolar.",
+"unidad":"374"
+},
+{ 
+"idcont":1935,
+"titu_contenido":"MECANISMOS DE PARTICIPACIÓN: EL VOTO, EL REFERENDO, EL PLEBISCITO, LA CONSULTA POPULAR EL CABILDO ABIERTO, LA REVOCATORIA DEL MANDATO",
+"objetivo_general":"Identificar las formas de participación ciudadana en nuestro sistema educativo.",
+"unidad":"374"
+},
+{ 
+"idcont":1936,
+"titu_contenido":"CLASIFICACIÓN DE LOS DERECHOS",
+"objetivo_general":"Comprender las características y la importancia que tiene la clasificación de los derechos.",
+"unidad":"374"
+},
+{ 
+"idcont":1937,
+"titu_contenido":"CONSTITUCIÓN POLÍTICA DE COLOMBIA",
+"objetivo_general":"Conocer la importancia que tiene la constitución política en los ciudadanos.",
+"unidad":"374"
+},
+{ 
+"idcont":1938,
+"titu_contenido":"LA INDEPENDENCIA (1810-1819)",
+"objetivo_general":"Identificar y entender los procesos de independencia de américa latina.",
+"unidad":"375"
+},
+{ 
+"idcont":1939,
+"titu_contenido":"INDEPENDENCIA DEFINITIVA",
+"objetivo_general":"Conocer los aspectos importantes que se dieron en la independencia",
+"unidad":"375"
+},
+{ 
+"idcont":1940,
+"titu_contenido":"EL PODER PÚBLICO",
+"objetivo_general":"Identificar cuáles son las funciones de las ramas del poder público.",
+"unidad":"375"
+},
+{ 
+"idcont":1941,
+"titu_contenido":"ORGANISMOS DE CONTROL",
+"objetivo_general":"Conocer e identificar cuáles son las características y funciones de los organismos de control.",
+"unidad":"375"
+},
+{ 
+"idcont":1942,
+"titu_contenido":"LA UBICACIÓN GEOGRÁFICA DE COLOMBIA",
+"objetivo_general":"Conocer donde está la ubicación geográfica de Colombia.",
+"unidad":"376"
+},
+{ 
+"idcont":1943,
+"titu_contenido":"LÍMITES TERRITORIALES",
+"objetivo_general":"Determinar cuáles son los límites territoriales de Colombia.",
+"unidad":"376"
+},
+{ 
+"idcont":1944,
+"titu_contenido":"FRONTERAS TERRESTRES Y MARÍTIMAS DE COLOMBIA",
+"objetivo_general":"Analizar los departamentos que hacen parte de las fronteras terrestres y marítimas de Colombia.",
+"unidad":"376"
+},
+{ 
+"idcont":1945,
+"titu_contenido":"RELIEVE Y SUS DIFERENTES FORMAS",
+"objetivo_general":"Reconocer las diferentes formas de relieve que existe en Colombia.",
+"unidad":"376"
+},
+{ 
+"idcont":1946,
+"titu_contenido":"EL SISTEMA MONTAÑOSO DE COLOMBIA",
+"objetivo_general":"Comprender la importancia del sistema montañoso de Colombia conformado por las cordilleras.",
+"unidad":"376"
+},
+{ 
+"idcont":1947,
+"titu_contenido":"LA ECONOMÍA COLOMBIANA",
+"objetivo_general":"Identifico las principales características de la economía colombiana.",
+"unidad":"377"
+},
+{ 
+"idcont":1948,
+"titu_contenido":"COLOMBIA EN EL SIGLO XXI",
+"objetivo_general":"Conocer los acontecimientos importantes de Colombia en el siglo XXI",
+"unidad":"377"
+},
+{ 
+"idcont":1949,
+"titu_contenido":"PRESIDENTES DE COLOMBIA",
+"objetivo_general":"Conocer e identificar cuáles han sido los presidentes de Colombia.",
+"unidad":"377"
+},
+{ 
+"idcont":1950,
+"titu_contenido":"USO ADECUADO DE LOS MEDIOS DE COMUNICACIÓN",
+"objetivo_general":"interpretar cual es el uso adecuado que los niños deben darle a los medios de comunicación.",
+"unidad":"377"
+},
+{ 
+"idcont":1951,
+"titu_contenido":"COLOMBIA Y LOS AVANCES TECNOLÓGICOS",
+"objetivo_general":"Conocer cuáles son los avances tecnológicos que están influyendo en Colombia.",
+"unidad":"377"
+}]

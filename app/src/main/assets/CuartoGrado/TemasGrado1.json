@@ -1,0 +1,901 @@
+[ 
+{ 
+"idcont":147,
+"titu_contenido":"CONCEPTO DE LA PAZ",
+"objetivo_general":"Reconocer la importancia de los fundamentos de catedra de la paz.",
+"unidad":"35"
+},
+{ 
+"idcont":148,
+"titu_contenido":"PRINCIPIOS MORALES, ÉTICOS Y DE RECONOCIMIENTO UNIVERSAL",
+"objetivo_general":"Reconocer de los valores éticos, morales y universales en la relaciones",
+"unidad":"35"
+},
+{ 
+"idcont":149,
+"titu_contenido":"RELACIONES INTERPERSONALES",
+"objetivo_general":"Aplicar las normas en las relaciones interpersonales y el cuidado del ambiente.",
+"unidad":"35"
+},
+{ 
+"idcont":150,
+"titu_contenido":"DERECHO A LA VIDA",
+"objetivo_general":"Valorar la vida como derecho fundamental del hombre.",
+"unidad":"36"
+},
+{ 
+"idcont":151,
+"titu_contenido":"DEBERES CON LA PATRIA",
+"objetivo_general":"Reconocer la importancia de tener un sentido con la patria como ciudadano que soy.",
+"unidad":"36"
+},
+{ 
+"idcont":152,
+"titu_contenido":"DEBERES CON EL AMBIENTE",
+"objetivo_general":"Concientizar la importancia de conservar y cuida el medio ambiente",
+"unidad":"36"
+},
+{ 
+"idcont":153,
+"titu_contenido":"DEBERES Y DERECHOS EN EL HOGAR",
+"objetivo_general":"Reconocer la importancia de tener y vivir en familia e identificar cuáles  son mis deberes y derecho dentro de ella.",
+"unidad":"36"
+},
+{ 
+"idcont":154,
+"titu_contenido":"DEBERES CON NOSOTROS MISMO",
+"objetivo_general":"Identificar los deberes para consigo mismo para valorarse y respetarse.",
+"unidad":"36"
+},
+{ 
+"idcont":155,
+"titu_contenido":"LAS ACTITUDES",
+"objetivo_general":"Sostener actitudes favorables que contribuyan a una formación sana para la convivencia",
+"unidad":"36"
+},
+{ 
+"idcont":156,
+"titu_contenido":"LA EQUIDAD",
+"objetivo_general":"Valorar la equidad para una mejor convivencia con los demás.",
+"unidad":"37"
+},
+{ 
+"idcont":157,
+"titu_contenido":"LA ACEPTACIÓN DEL OTRO",
+"objetivo_general":"Practicar el valor de la aceptación con los demás para la sana convivencia.",
+"unidad":"37"
+},
+{ 
+"idcont":158,
+"titu_contenido":"RESPETO POR LA DIFERENCIA",
+"objetivo_general":"Aprender a respetar la diferencia por las demás personas.",
+"unidad":"37"
+},
+{ 
+"idcont":159,
+"titu_contenido":"LA SOLIDARIDAD",
+"objetivo_general":"identificar la necesidad del otro mediante el valor de la solidaridad.",
+"unidad":"37"
+},
+{ 
+"idcont":160,
+"titu_contenido":"LA JUSTICIA",
+"objetivo_general":"Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles",
+"unidad":"37"
+},
+{ 
+"idcont":161,
+"titu_contenido":"EL RESPETO",
+"objetivo_general":"Aprender el significado del respeto con las personas.",
+"unidad":"37"
+},
+{ 
+"idcont":162,
+"titu_contenido":"LOS CONFLICTOS",
+"objetivo_general":"Reconocer la importancia de solucionar los conflictos mediante el diálogo.",
+"unidad":"38"
+},
+{ 
+"idcont":163,
+"titu_contenido":"SOLUCIÓN DE CONFLICTOS",
+"objetivo_general":"Reconocer las diferentes herramientas para la solución de conflictos en el ambiente escolar y la comunidad.",
+"unidad":"38"
+},
+{ 
+"idcont":164,
+"titu_contenido":"EL DIÁLOGO",
+"objetivo_general":"Aprender a utilizar el dialogo para los conflictos en el ámbito escolar y en la comunidad.",
+"unidad":"38"
+},
+{ 
+"idcont":165,
+"titu_contenido":"LA TOLERANCIA",
+"objetivo_general":"Diferenciar las acciones que permiten ser tolerantes con el otro.",
+"unidad":"38"
+},
+{ 
+"idcont":166,
+"titu_contenido":"EL PODER DE LA ESCUCHA",
+"objetivo_general":"Aprender adquirir habilidades de la escucha que le permitan un mejor entendimiento con las personas.",
+"unidad":"38"
+},
+{ 
+"idcont":632,
+"titu_contenido":"LA NARRACIÓN",
+"objetivo_general":"Aumentar el conocimiento en la literatura española, específicamente la narrativa.",
+"unidad":"140"
+},
+{ 
+"idcont":634,
+"titu_contenido":"CLASES DE ADJETIVOS DETERMINATIVOS",
+"objetivo_general":"Utilizar de manera correcta las diferentes clases de adjetivos determinativo en los sustantivos.",
+"unidad":"140"
+},
+{ 
+"idcont":636,
+"titu_contenido":"LA MAYÚSCULA.",
+"objetivo_general":"Aplicar el uso de las letras mayúsculas en los sustantivos propios para lograr la escritura correcta de los nombres de personas, animales y cosas.",
+"unidad":"141"
+},
+{ 
+"idcont":637,
+"titu_contenido":"SIGNOS DE INTERROGACIÓN Y EXCLAMACIÓN.",
+"objetivo_general":"Reconocer los signos de exclamación e interrogación.",
+"unidad":"141"
+},
+{ 
+"idcont":638,
+"titu_contenido":"SUFIJO Y PREFIJO",
+"objetivo_general":"Identificar y Reconocer qué es un sufijo y prefijo.",
+"unidad":"141"
+},
+{ 
+"idcont":639,
+"titu_contenido":"SINÓNIMOS Y ANTÓNIMOS",
+"objetivo_general":"Enseñar de manera didáctica los contenidos básicos del uso correcto de los sinónimos y antónimos.",
+"unidad":"141"
+},
+{ 
+"idcont":640,
+"titu_contenido":"EL CUENTO",
+"objetivo_general":"Reavivar la costumbres de narrar y escuchar cuentos para desarrollar la creatividad e imaginación de los niños.",
+"unidad":"142"
+},
+{ 
+"idcont":641,
+"titu_contenido":"LA LEYENDA",
+"objetivo_general":"Conocer el origen de los  mitos y leyendas por la valiosa aportación cultural que representa para un país.",
+"unidad":"142"
+},
+{ 
+"idcont":642,
+"titu_contenido":"EL MITO",
+"objetivo_general":"Conocer el origen de los  mitos y leyendas por la valiosa aportación cultural que representa para un país.",
+"unidad":"142"
+},
+{ 
+"idcont":644,
+"titu_contenido":"LA AUTOBIOGRAFÍA",
+"objetivo_general":"Explicar los acontecimientos de la vida de cada uno de nosotros.",
+"unidad":"142"
+},
+{ 
+"idcont":647,
+"titu_contenido":"CONCORDANCIA ENTRE ARTÍCULO, SUSTANTIVO Y ADJETIVOS",
+"objetivo_general":"Escribir de forma correcta la concordancia entre el  artículo, sustantivo y adjetivos.",
+"unidad":"144"
+},
+{ 
+"idcont":650,
+"titu_contenido":"VERBO- CONJUGACIÓN DE VERBOS",
+"objetivo_general":"Aprender a conjugar los verbos en los diferentes tiempos; presente, pasado, futuro.",
+"unidad":"144"
+},
+{ 
+"idcont":652,
+"titu_contenido":"ADVERBIO",
+"objetivo_general":"CONOCER EL SIGNIFICADO Y LA CLASIFICACIÓN DE LOS ADVERBIOS.",
+"unidad":"144"
+},
+{ 
+"idcont":654,
+"titu_contenido":"USO DE G Y J",
+"objetivo_general":"Escribe correctamente palabras que lleven la consonante g o j.",
+"unidad":"146"
+},
+{ 
+"idcont":658,
+"titu_contenido":"ACENTUACIÓN DE PALABRAS",
+"objetivo_general":"Lograr que el alumno conozca e identifique el acento y cuando debe agregar tilde.",
+"unidad":"146"
+},
+{ 
+"idcont":660,
+"titu_contenido":"GÉNERO LITERARIO",
+"objetivo_general":"Identificar cuáles son los géneros literarios.",
+"unidad":"147"
+},
+{ 
+"idcont":662,
+"titu_contenido":"ORACIÓN: DEFINICIÓN Y SUS CLASES",
+"objetivo_general":"Identificar cual es el sujeto y el predicado en una oración.",
+"unidad":"149"
+},
+{ 
+"idcont":664,
+"titu_contenido":"CLASIFICACIÓN DE LA ORACIÓN",
+"objetivo_general":"Reconocer  e identificar los diferentes tipos de oraciones que existe.",
+"unidad":"149"
+},
+{ 
+"idcont":669,
+"titu_contenido":"SUJETO Y PREDICADO",
+"objetivo_general":"Identificar de forma correcta el sujeto y predicado en una oración.",
+"unidad":"149"
+},
+{ 
+"idcont":670,
+"titu_contenido":"PREPOSICIÓN",
+"objetivo_general":"Conocer la importancia que tienen las preposiciones en las oraciones y el uso de ellas.",
+"unidad":"149"
+},
+{ 
+"idcont":672,
+"titu_contenido":"USO DE LA H",
+"objetivo_general":"Utilizar de manera correcta la consonante h en la escritura.",
+"unidad":"150"
+},
+{ 
+"idcont":673,
+"titu_contenido":"DIPTONGO- TRIPTONGO",
+"objetivo_general":"Diferenciar diptongos, triptongos en una palabra.",
+"unidad":"150"
+},
+{ 
+"idcont":675,
+"titu_contenido":"HIATO",
+"objetivo_general":"Identificar las palabras que lleven hiato.",
+"unidad":"150"
+},
+{ 
+"idcont":677,
+"titu_contenido":"PALABRAS HOMÓNIMAS",
+"objetivo_general":"Reconocer y diferenciar las palabras homónimas de las homófonas.",
+"unidad":"150"
+},
+{ 
+"idcont":679,
+"titu_contenido":"GÉNERO DRAMÁTICO",
+"objetivo_general":"Identificar el contexto en que se crea una obra literaria y lo relaciona con los conocimientos que tiene sobre él.",
+"unidad":"152"
+},
+{ 
+"idcont":681,
+"titu_contenido":"EL PÁRRAFO",
+"objetivo_general":"Producir textos escritos claros, precisos, breves y coherentes, ajustados a la situación comunicativa.EL PÁRRAFO",
+"unidad":"154"
+},
+{ 
+"idcont":685,
+"titu_contenido":"INTERJECCIONES Y ONOMATOPEYAS",
+"objetivo_general":"Reconocer e identificar mediante los diversos materiales proporcionados que son palabras onomatopeyas, e interjecciones en sus diversas situaciones.",
+"unidad":"154"
+},
+{ 
+"idcont":687,
+"titu_contenido":"CONECTORES",
+"objetivo_general":"Utilizar los conectores es un escrito, teniendo en cuenta la relación lógica de las ideas.",
+"unidad":"154"
+},
+{ 
+"idcont":689,
+"titu_contenido":"USO DEL PUNTOY LOS DOS PUNTOS",
+"objetivo_general":"Utilizar de manera adecuada  el uso del punto en los texto.",
+"unidad":"155"
+},
+{ 
+"idcont":693,
+"titu_contenido":"USO DE LA COMA",
+"objetivo_general":"Utilizar de manera correcta los signos de puntuación (El uso de la coma).",
+"unidad":"155"
+},
+{ 
+"idcont":694,
+"titu_contenido":"PALABRAS POLISEMIAS",
+"objetivo_general":"Reconocer  cuáles son las oraciones que llevan  palabras polisemias.",
+"unidad":"155"
+},
+{ 
+"idcont":702,
+"titu_contenido":"COMUNICACIÓN NO VERBAL; SEÑALES DE TRANSITO",
+"objetivo_general":"Implementar actividades de aprendizaje para la prevención de accidentes de tránsito.",
+"unidad":"159"
+},
+{ 
+"idcont":704,
+"titu_contenido":"LA ENTREVISTA",
+"objetivo_general":"Aprender las partes de una entrevista para obtener la información sobre el problema que  motiva la consulta.",
+"unidad":"159"
+},
+{ 
+"idcont":1100,
+"titu_contenido":"SERES VIVOS",
+"objetivo_general":"Diferenciar un ser vivo de un objeto no vivo, conocer sus funciones y su relación con la naturaleza.",
+"unidad":"226"
+},
+{ 
+"idcont":1101,
+"titu_contenido":"CARACTERÍSTICAS DE LOS SERES VIVOS",
+"objetivo_general":"Identificar la características de los seres vivos.",
+"unidad":"226"
+},
+{ 
+"idcont":1102,
+"titu_contenido":"CLASIFICACIÓN DE LOS SERES VIVOS",
+"objetivo_general":"Clasificar los seres vivos teniendo en cuenta los 5 reinos de la naturaleza.",
+"unidad":"226"
+},
+{ 
+"idcont":1103,
+"titu_contenido":"FUNCIONES VITALES DE LOS SERES VIVOS.",
+"objetivo_general":"Conocer las funciones vitales de los seres vivos.",
+"unidad":"226"
+},
+{ 
+"idcont":1104,
+"titu_contenido":"NIVELES TRÓFICOS",
+"objetivo_general":"Conocer la organización de los seres vivos en los niveles tróficos.",
+"unidad":"226"
+},
+{ 
+"idcont":1105,
+"titu_contenido":"CADENA ALIMENTICIA",
+"objetivo_general":"Identificar que es la cadena alimenticia y cuáles son sus componentes.",
+"unidad":"226"
+},
+{ 
+"idcont":1106,
+"titu_contenido":"ECOSISTEMAS",
+"objetivo_general":"Conocer los componentes del Ecosistema.",
+"unidad":"230"
+},
+{ 
+"idcont":1107,
+"titu_contenido":"COMPONENTES DE UN ECOSISTEMA",
+"objetivo_general":"Identifica los componentes bióticos y abióticos de un ecosistema.",
+"unidad":"230"
+},
+{ 
+"idcont":1108,
+"titu_contenido":"CLASES DE ECOSISTEMAS",
+"objetivo_general":"Valorar la importancia de la conservación de los diferentes hábitats para las especies.",
+"unidad":"230"
+},
+{ 
+"idcont":1109,
+"titu_contenido":"CARACTERÍSTICAS FÍSICAS Y BIOLÓGICAS DE UN ECOSISTEMA",
+"objetivo_general":"Distinguir los aspectos físicos y biológicos de un ecosistemas.",
+"unidad":"230"
+},
+{ 
+"idcont":1110,
+"titu_contenido":"LA MATERIA",
+"objetivo_general":"Reconocer el concepto de materia.",
+"unidad":"227"
+},
+{ 
+"idcont":1111,
+"titu_contenido":"ESTADOS DE LA MATERIA",
+"objetivo_general":"Identificar los estados de la materia.",
+"unidad":"227"
+},
+{ 
+"idcont":1112,
+"titu_contenido":"LAS MEZCLAS Y TIPOS DE MEZCLAS",
+"objetivo_general":"Saber diferenciar una mezcla heterogénea de una mezcla homogénea (disolución)",
+"unidad":"227"
+},
+{ 
+"idcont":1113,
+"titu_contenido":"SEPARACIÓN DE MEZCLAS",
+"objetivo_general":"Conocer y aplicar los métodos adecuados para la separación de mezclas.",
+"unidad":"227"
+},
+{ 
+"idcont":1114,
+"titu_contenido":"CAMBIOS FÍSICOS, CAMBIOS QUÍMICOS",
+"objetivo_general":"Reconocer los cambios físicos y los cambios químicos de la materia.",
+"unidad":"227"
+},
+{ 
+"idcont":1115,
+"titu_contenido":"EL UNIVERSO Y EL SISTEMA SOLAR",
+"objetivo_general":"Conocer los componentes del Sistema Solar",
+"unidad":"228"
+},
+{ 
+"idcont":1116,
+"titu_contenido":"LA TIERRA",
+"objetivo_general":"Conocer las características del planeta tierra.",
+"unidad":"228"
+},
+{ 
+"idcont":1117,
+"titu_contenido":"FORMACIÓN DE LA TIERRA",
+"objetivo_general":"Conocer cómo se formó la tierra.",
+"unidad":"228"
+},
+{ 
+"idcont":1118,
+"titu_contenido":"MOVIMIENTOS DE LA TIERRA",
+"objetivo_general":"Comprender en qué consiste el movimiento de traslación y rotación  en el planeta Tierra.",
+"unidad":"228"
+},
+{ 
+"idcont":1119,
+"titu_contenido":"CAPAS DE LA TIERRA",
+"objetivo_general":"Conocer las capas que conforman la tierra.",
+"unidad":"228"
+},
+{ 
+"idcont":1120,
+"titu_contenido":"CUERPOS CELESTES DEL SISTEMA SOLAR",
+"objetivo_general":"Conocer los tipos de astros y cuerpos que forman el Sistema Solar (estrella, planetas, satélites, asteroides, meteoritos, cometas, etc.).",
+"unidad":"231"
+},
+{ 
+"idcont":1121,
+"titu_contenido":"LA LUNA",
+"objetivo_general":"Identifica la Luna como satélite de la Tierra.",
+"unidad":"231"
+},
+{ 
+"idcont":1122,
+"titu_contenido":"MOVIMIENTOS DE LA LUNA",
+"objetivo_general":"conoce los diferentes movimientos de la Luna: movimiento de rotación y movimiento de traslación.",
+"unidad":"231"
+},
+{ 
+"idcont":1123,
+"titu_contenido":"FASES DE LA LUNA",
+"objetivo_general":"Identificar las fases de la Luna.",
+"unidad":"231"
+},
+{ 
+"idcont":1124,
+"titu_contenido":"ECLIPSE",
+"objetivo_general":"Comprender como se forma un eclipse lunar y solar.",
+"unidad":"231"
+},
+{ 
+"idcont":1125,
+"titu_contenido":"LA FUERZA",
+"objetivo_general":"Identificar que es una fuerza y cuáles son los principales tipos de fuerzas.",
+"unidad":"229"
+},
+{ 
+"idcont":1126,
+"titu_contenido":"CARACTERÍSTICAS DE LAS FUERZAS",
+"objetivo_general":"Conocer cuáles son las características de las fuerzas.",
+"unidad":"229"
+},
+{ 
+"idcont":1127,
+"titu_contenido":"CLASES DE FUERZAS",
+"objetivo_general":"Identificar los diferentes tipos de fuerza.",
+"unidad":"229"
+},
+{ 
+"idcont":1128,
+"titu_contenido":"FUERZA Y MOVIMIENTO",
+"objetivo_general":"Comprender que las fuerzas son las responsables de que los objetos se muevan o se detengan.",
+"unidad":"229"
+},
+{ 
+"idcont":1129,
+"titu_contenido":"LAS MÁQUINAS",
+"objetivo_general":"Conocer los distintos elementos de máquinas, sus clases y sus características funcionales.",
+"unidad":"229"
+},
+{ 
+"idcont":1130,
+"titu_contenido":"CLASES DE MÁQUINAS",
+"objetivo_general":"Conocer la importancia de las máquinas en la vida cotidiana.",
+"unidad":"229"
+},
+{ 
+"idcont":1229,
+"titu_contenido":"VERBO AUXILIAR CAN",
+"objetivo_general":"Adquirirá la habilidad de utilizar los verbos CAN and CANT con habilidades que pueden o no realizar.",
+"unidad":"248"
+},
+{ 
+"idcont":1230,
+"titu_contenido":"VERB TO BE",
+"objetivo_general":"Reconocerá el verbo to be en inglés y su uso.",
+"unidad":"248"
+},
+{ 
+"idcont":1231,
+"titu_contenido":"PERSONAL INFORMATION.",
+"objetivo_general":"conocerá y se apropiará del vocabulario para brindar información acerca de nosotros mismos y de los demás en general.",
+"unidad":"248"
+},
+{ 
+"idcont":1232,
+"titu_contenido":"MY DAILY ROUTINE.",
+"objetivo_general":"El alumno expresará de forma fluida sus actividades cotidianas utilizando el vocabulario y la estructura gramatical adecuada.",
+"unidad":"248"
+},
+{ 
+"idcont":1233,
+"titu_contenido":"THE ALPHABET",
+"objetivo_general":"aprenderá la pronunciación de las letras de alfabeto y lo asociará en su entorno.",
+"unidad":"248"
+},
+{ 
+"idcont":1234,
+"titu_contenido":"FAMILY MEMBERS.",
+"objetivo_general":"reconocerá cada integrante de la familia, su pronunciación y escritura en inglés.",
+"unidad":"249"
+},
+{ 
+"idcont":1235,
+"titu_contenido":"THE CLOCK.",
+"objetivo_general":"Adquirirá la habilidad de pedir y decir la hora utilizando el enunciado en inglés what time is it?.",
+"unidad":"249"
+},
+{ 
+"idcont":1236,
+"titu_contenido":"PLACES AND OCCUPATIONS (animal hospital, airport, restaurant, fireman, veterinarian, pilot, banker.)",
+"objetivo_general":"reconocerá y asociará los lugares de nuestro entorno diario.",
+"unidad":"249"
+},
+{ 
+"idcont":1237,
+"titu_contenido":"PREPOSITIONS OF PLACE",
+"objetivo_general":"Identificará y ubicará los objetos haciendo uso adecuado de las preposiciones en inglés.",
+"unidad":"249"
+},
+{ 
+"idcont":1238,
+"titu_contenido":"ANIMALS VOCABULARY: DOG, LION TIGER…",
+"objetivo_general":"Identificará los animales y su correcta pronunciación en inglés.",
+"unidad":"249"
+},
+{ 
+"idcont":1239,
+"titu_contenido":"PARTS OF THE HOUSE (BEDROOM, BATHROOM, KITCHEN, LIVINGROOM).",
+"objetivo_general":"Identificará cada una de las partes de la casa y su nombre en inglés.",
+"unidad":"250"
+},
+{ 
+"idcont":1240,
+"titu_contenido":"THERE IS, THERE ARE (there is a pencil on the table, there are two balls under the bed.)",
+"objetivo_general":"aprenderá el uso de there is y there are en nuestro entorno y con los diferentes objetos.",
+"unidad":"250"
+},
+{ 
+"idcont":1241,
+"titu_contenido":"FOOD: MEAT-CHICKEN, RICE, SOUP.",
+"objetivo_general":"Identificará los alimentos que consumimos, reconocerá su nombre y su debida pronunciación en inglés.",
+"unidad":"250"
+},
+{ 
+"idcont":1242,
+"titu_contenido":"LIKES AND DISLIKES. I LIKE CHICKEN BUT I DON`T LIKE MEAT",
+"objetivo_general":"Identificará expresiones acerca de las rutinas diarias y hablará sobre sus gustos, preferencias, hobbies e intereses.",
+"unidad":"250"
+},
+{ 
+"idcont":1243,
+"titu_contenido":"THE CLOTHES skirt, pants, t-shirt, shoes",
+"objetivo_general":"Identificará, pronunciará y describirá el vocabulario en ingles referente a ‘’clothes’’",
+"unidad":"251"
+},
+{ 
+"idcont":1244,
+"titu_contenido":"ADJECTIVES: tall, short, big, beautiful",
+"objetivo_general":"Identificará y se apropiará de la diversidad de adjetivos calificativos, vocabulario y verbos que se despliegan en una descripción física de algún personaje, familiar, etc.",
+"unidad":"251"
+},
+{ 
+"idcont":1245,
+"titu_contenido":"PHYSICAL AND PERSONALITY DESCRPTION: my mother is tall, slim and very intelligent. That car is new and fast.",
+"objetivo_general":"Reconocerá las diferentes maneras de identificar a una persona mediante el vocabulario de descripción personal.",
+"unidad":"251"
+},
+{ 
+"idcont":1246,
+"titu_contenido":"THE FOUR SEASONS: winter, spring, summer, fall.",
+"objetivo_general":"Identificará y se apropiará del vocabulario de las cuatro estaciones del año.",
+"unidad":"251"
+},
+{ 
+"idcont":1809,
+"titu_contenido":"SISTEMA DE NUMERACIÓN DECIMAL",
+"objetivo_general":"Reconocer el sistema de número decimal para la vida cotidiana.",
+"unidad":"354"
+},
+{ 
+"idcont":1810,
+"titu_contenido":"ORDEN DE LOS NÚMEROS NATURALES",
+"objetivo_general":"Reconocer y practicar el orden de loa números naturales.",
+"unidad":"354"
+},
+{ 
+"idcont":1811,
+"titu_contenido":"ADICIÓN DE NÚMEROS NATURALES   Y SUS PROPIEDADES",
+"objetivo_general":"Reconocer y practicar la adición de números naturales y sus propiedades.",
+"unidad":"354"
+},
+{ 
+"idcont":1812,
+"titu_contenido":"SUSTRACCIÓN DE NÚMEROS NATURALES",
+"objetivo_general":"Reconocer y practicar sustracción de números naturales",
+"unidad":"354"
+},
+{ 
+"idcont":1813,
+"titu_contenido":"MULTIPLICACIÓN Y SUS PROPIEDADES CON NÚMEROS NATURALES",
+"objetivo_general":"Reconocer y practicar la multiplicación y sus propiedades  con números naturales.",
+"unidad":"354"
+},
+{ 
+"idcont":1814,
+"titu_contenido":"DIVISIÓN DE NÚMEROS NATURALES",
+"objetivo_general":"Reconocer y practicar divisiones de números naturales.",
+"unidad":"354"
+},
+{ 
+"idcont":1815,
+"titu_contenido":"FRACCIONES EN LA SEMIRRECTA NUMÉRICA",
+"objetivo_general":"Conocer y aprender las fracciones en la semirrecta.",
+"unidad":"355"
+},
+{ 
+"idcont":1816,
+"titu_contenido":"FRACCIONES EQUIVALENTES",
+"objetivo_general":"Conocer la para la vida cotidiana.",
+"unidad":"355"
+},
+{ 
+"idcont":1817,
+"titu_contenido":"ADICIÓN Y SUSTRACCIÓN DE FRACCIONES HOMOGÉNEAS",
+"objetivo_general":"Reconocer y realizar ejercicios de adición y sustracción de fracciones homogéneas.",
+"unidad":"355"
+},
+{ 
+"idcont":1818,
+"titu_contenido":"ADICIÓN Y SUSTRACCIÓN DE FRACCIONES HETEROGÉNEAS",
+"objetivo_general":"Conocer y aprender a realizar adición y sustracción de fracciones heterogéneas.",
+"unidad":"355"
+},
+{ 
+"idcont":1819,
+"titu_contenido":"NÚMEROS MIXTOS",
+"objetivo_general":"Conocer y aprender a realizar ejercicios con números mixtos.",
+"unidad":"355"
+},
+{ 
+"idcont":1820,
+"titu_contenido":"MULTIPLICACIÓN DE FRACCIONES",
+"objetivo_general":"Conocer y realizar ejercicios de multiplicación de fracciones para la vida cotidiana.",
+"unidad":"355"
+},
+{ 
+"idcont":1821,
+"titu_contenido":"DIVISIÓN DE FRACCIONES",
+"objetivo_general":"Conocer y aprender a realizar ejercicios con división de fracciones.",
+"unidad":"355"
+},
+{ 
+"idcont":1822,
+"titu_contenido":"FRACCIONES DECIMALES",
+"objetivo_general":"Conocer y practicar ejercicios con fracciones decimales.",
+"unidad":"355"
+},
+{ 
+"idcont":1823,
+"titu_contenido":"NÚMERO DECIMALES",
+"objetivo_general":"Conocer y aprender a trabajar con números decimales.",
+"unidad":"355"
+},
+{ 
+"idcont":1824,
+"titu_contenido":"ADICIÓN Y SUSTRACCIÓN DE NÚMEROS DECIMALES",
+"objetivo_general":"Conocer y desarrollar ejercicios de adición y sustracción de números decimales.",
+"unidad":"355"
+},
+{ 
+"idcont":1825,
+"titu_contenido":"MULTIPLICACIÓN Y DIVISIÓN DE NÚMEROS DECIMALES",
+"objetivo_general":"Reconocer y practicar ejercicios de multiplicación y división de nueros decimales.",
+"unidad":"355"
+},
+{ 
+"idcont":1826,
+"titu_contenido":"LOS ÁNGULOS Y SU MEDICIÓN",
+"objetivo_general":"Conocer y aprender cuales son los ángulos y su medición.",
+"unidad":"356"
+},
+{ 
+"idcont":1827,
+"titu_contenido":"LOS POLÍGONOS Y SU CLASIFICACIÓN",
+"objetivo_general":"Conocer y aprender concepto y clasificación de los polígonos.",
+"unidad":"356"
+},
+{ 
+"idcont":1828,
+"titu_contenido":"LOS TRIÁNGULOS - LOS CUADRILÁTEROS",
+"objetivo_general":"Reconocer concepto, características y tipo de los triángulos- rectángulos.",
+"unidad":"356"
+},
+{ 
+"idcont":1829,
+"titu_contenido":"EL PLANO CARTESIANO",
+"objetivo_general":"Reconocer concepto, características del plano cartesiano.",
+"unidad":"356"
+},
+{ 
+"idcont":1830,
+"titu_contenido":"TRASLACIÓN DE FIGURAS - ROTACIÓN DE FIGURAS",
+"objetivo_general":"Conocer y aprender traslación de figuras - rotación de figuras.",
+"unidad":"356"
+},
+{ 
+"idcont":1831,
+"titu_contenido":"EL PERIMETRO",
+"objetivo_general":"Conocer y aprender concepto, características y tipos de perímetro.",
+"unidad":"356"
+},
+{ 
+"idcont":1832,
+"titu_contenido":"ÁREA DE FIGURAS",
+"objetivo_general":"Reconocer y aprender el área de las figuras.",
+"unidad":"356"
+},
+{ 
+"idcont":1833,
+"titu_contenido":"GRÁFICO DE BARRAS",
+"objetivo_general":"Conocer y practicar ejercicios con las gráficas de barras.",
+"unidad":"357"
+},
+{ 
+"idcont":1834,
+"titu_contenido":"TABLA DE FRECUENCIA",
+"objetivo_general":"Conocer y aprender a realizar tablas de frecuencia",
+"unidad":"357"
+},
+{ 
+"idcont":1835,
+"titu_contenido":"MAGNITUDES",
+"objetivo_general":"Reconocer y aprender concepto, características y tipos de magnitudes para la vida cotidiana.",
+"unidad":"357"
+},
+{ 
+"idcont":1836,
+"titu_contenido":"FRECUENCIA Y MODA",
+"objetivo_general":"Conocer la frecuencia y la moda para la vida cotidiana",
+"unidad":"357"
+},
+{ 
+"idcont":1837,
+"titu_contenido":"GRAFICA DE LÍNEAS",
+"objetivo_general":"Conocer y realizar ejercicios con graficas de líneas.",
+"unidad":"357"
+},
+{ 
+"idcont":1838,
+"titu_contenido":"PROBABILIDAD DE EVENTOS",
+"objetivo_general":"Conocer y practicar ejercicios de probabilidad de eventos.",
+"unidad":"357"
+},
+{ 
+"idcont":2095,
+"titu_contenido":"EL UNIVERSO",
+"objetivo_general":"Describir los principales elementos del sistema solar y establecer relaciones de tamaño, movimiento y posición.",
+"unidad":"402"
+},
+{ 
+"idcont":2096,
+"titu_contenido":"GENERALIDADES DEL UNIVERSO - EL SISTEMA SOLAR",
+"objetivo_general":"Identificar y describir las características de los ocho planetas principales del Sistema Solar.",
+"unidad":"402"
+},
+{ 
+"idcont":2097,
+"titu_contenido":"LA TIERRA EN EL SISTEMA SOLAR",
+"objetivo_general":"comprender la importancia de la tierra, el planeta donde vivimos y de que se compone.",
+"unidad":"402"
+},
+{ 
+"idcont":2098,
+"titu_contenido":"LAS ESTACIONES DEL AÑO",
+"objetivo_general":"Conocer y explicar la función de los movimientos de la tierra la sucesión de los días y las noches, así como las estaciones del año",
+"unidad":"402"
+},
+{ 
+"idcont":2099,
+"titu_contenido":"LAS COORDENADAS GEOGRÁFICAS",
+"objetivo_general":"Reconocer la importancia en la utilización de las coordenadas geográficas para la ubicación en un mapa",
+"unidad":"402"
+},
+{ 
+"idcont":2100,
+"titu_contenido":"EL CLIMA Y LA CLASIFICACIÓN DEL CLIMA",
+"objetivo_general":"Conocer los diferentes elementos que configuran el clima e identificara los factores que lo conforman",
+"unidad":"402"
+},
+{ 
+"idcont":2101,
+"titu_contenido":"REGIONES NATURALES DE COLOMBIA",
+"objetivo_general":"Identificar y describir algunas de las características humanas (sociales, culturales) de las diferentes regiones naturales del mundo.",
+"unidad":"403"
+},
+{ 
+"idcont":2102,
+"titu_contenido":"COMERCIO INTERNO Y EXTERNO",
+"objetivo_general":"Conocer que es el comercio en nuestro país y como es su clasificación.",
+"unidad":"403"
+},
+{ 
+"idcont":2103,
+"titu_contenido":"ECONOMÍA Y POBLACIÓN COLOMBIANA",
+"objetivo_general":"Identificar las principales características de la economía colombiana, y reconocer el origen de nuestra población",
+"unidad":"403"
+},
+{ 
+"idcont":2104,
+"titu_contenido":"SECTORES PRODUCTIVOS DE LA ECONOMÍA DE COLOMBIA",
+"objetivo_general":"Identificar cada uno de los sectores productivos de la economía en Colombia y su función",
+"unidad":"403"
+},
+{ 
+"idcont":2105,
+"titu_contenido":"CONTINENTES Y OCÉANOS QUE FORMAN LA TIERRA",
+"objetivo_general":"Identificar cada uno de los continentes y océanos que conforman la tierra e identificar sus características",
+"unidad":"404"
+},
+{ 
+"idcont":2106,
+"titu_contenido":"CAPAS DE LA TIERRA",
+"objetivo_general":"Identificar y describir las características de las capas de la tierra.",
+"unidad":"404"
+},
+{ 
+"idcont":2107,
+"titu_contenido":"ESTRUCTURA INTERNA DE LA TIERRA: LOS SISMOS O TEMBLORES",
+"objetivo_general":"conocer la causa de los movimientos sísmicos de la tierra y a que se debe ese proceso.",
+"unidad":"404"
+},
+{ 
+"idcont":2108,
+"titu_contenido":"LOS EFECTOS DE LA LUNA SOBRE LA TIERRA",
+"objetivo_general":"conocer cada fase de la luna, los cambios que presenta y como se ve desde la tierra",
+"unidad":"404"
+},
+{ 
+"idcont":2109,
+"titu_contenido":"COMO ESTÁ ORGANIZADO MI PAÍS",
+"objetivo_general":"Identificar la organización territorial del estado colombiano, los departamentos y sus respectivas capitales",
+"unidad":"405"
+},
+{ 
+"idcont":2110,
+"titu_contenido":"LAS RAMAS DEL PODER PÚBLICO",
+"objetivo_general":"Identificar las ramas del poder público de nuestro país, sus funciones y sus beneficios.",
+"unidad":"405"
+},
+{ 
+"idcont":2111,
+"titu_contenido":"MECANISMOS DE PARTICIPACIÓN CIUDADANA",
+"objetivo_general":"Identificar los mecanismos de participación como una herramienta establecida por la constitución colombiana.",
+"unidad":"405"
+},
+{ 
+"idcont":2112,
+"titu_contenido":"LA DEMOCRACIA",
+"objetivo_general":"Identificar la organización territorial del estado colombiano.",
+"unidad":"405"
+}]

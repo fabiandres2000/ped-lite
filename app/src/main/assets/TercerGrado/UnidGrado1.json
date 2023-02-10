@@ -1,0 +1,253 @@
+[ 
+{ 
+"idunid":31,
+"nomunid":"Unidad 1",
+"desunid":"COMO CONTRIBUYO CON LA CONSTRUCCIÓN DE LA PAZ",
+"periodo":"41",
+"modulo":"11"
+},
+{ 
+"idunid":32,
+"nomunid":"Unidad 2",
+"desunid":"COMO CONTRIBUYEN LAS ACTITUDES A LA CONVIVENCIA",
+"periodo":"42",
+"modulo":"11"
+},
+{ 
+"idunid":33,
+"nomunid":"Unidad 3",
+"desunid":"¿COMO INFLUYE EL TRATO A LOS DEMAS EN LA CONVIVENCIA EN MI INSTITUCION?",
+"periodo":"43",
+"modulo":"11"
+},
+{ 
+"idunid":34,
+"nomunid":"Unidad 4",
+"desunid":"¿POR QUÉ ES IMPORTANTE LA SOLUCIÓN DE CONFLICTOS?",
+"periodo":"44",
+"modulo":"11"
+},
+{ 
+"idunid":114,
+"nomunid":"Unidad 1",
+"desunid":"GÉNERO NARRATIVO",
+"periodo":"132",
+"modulo":"34"
+},
+{ 
+"idunid":115,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"132",
+"modulo":"34"
+},
+{ 
+"idunid":117,
+"nomunid":"Unidad 3",
+"desunid":"ORTOGRAFÍA",
+"periodo":"132",
+"modulo":"34"
+},
+{ 
+"idunid":119,
+"nomunid":"Unidad 4",
+"desunid":"MEDIOS COMUNICACIÓN",
+"periodo":"132",
+"modulo":"34"
+},
+{ 
+"idunid":120,
+"nomunid":"Unidad 1",
+"desunid":"LITERATURA (CLASES DE NARRACIÓN)",
+"periodo":"133",
+"modulo":"34"
+},
+{ 
+"idunid":121,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"133",
+"modulo":"34"
+},
+{ 
+"idunid":122,
+"nomunid":"Unidad 3",
+"desunid":"LA ORTOGRAFÍA",
+"periodo":"133",
+"modulo":"34"
+},
+{ 
+"idunid":123,
+"nomunid":"Unidad 1",
+"desunid":"GÉNERO LÍRICO",
+"periodo":"134",
+"modulo":"34"
+},
+{ 
+"idunid":124,
+"nomunid":"Unidad 2",
+"desunid":"PRODUCCIÓN TEXTUAL",
+"periodo":"134",
+"modulo":"34"
+},
+{ 
+"idunid":125,
+"nomunid":"Unidad 3",
+"desunid":"GRAMÁTICA",
+"periodo":"134",
+"modulo":"34"
+},
+{ 
+"idunid":133,
+"nomunid":"Unidad 4",
+"desunid":"SEMÁNTICA",
+"periodo":"134",
+"modulo":"34"
+},
+{ 
+"idunid":134,
+"nomunid":"Unidad 5",
+"desunid":"MEDIOS DE COMUNICACIÓN",
+"periodo":"134",
+"modulo":"34"
+},
+{ 
+"idunid":135,
+"nomunid":"Unidad 1",
+"desunid":"EL GÉNERO DRAMÁTICO",
+"periodo":"135",
+"modulo":"34"
+},
+{ 
+"idunid":136,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"135",
+"modulo":"34"
+},
+{ 
+"idunid":137,
+"nomunid":"Unidad 3",
+"desunid":"ORTOGRAFÍA",
+"periodo":"135",
+"modulo":"34"
+},
+{ 
+"idunid":139,
+"nomunid":"Unidad 4",
+"desunid":"MEDIOS DE COMUNICACIÓN",
+"periodo":"135",
+"modulo":"34"
+},
+{ 
+"idunid":222,
+"nomunid":"Unidad 1",
+"desunid":"ORGANIZACIÓN DE LOS SERES VIVOS",
+"periodo":"189",
+"modulo":"48"
+},
+{ 
+"idunid":223,
+"nomunid":"Unidad 2",
+"desunid":"CONOCIMIENTOS DE PROCESOS QUIMICOS",
+"periodo":"190",
+"modulo":"48"
+},
+{ 
+"idunid":224,
+"nomunid":"Unidad 3",
+"desunid":"EL SONIDO",
+"periodo":"191",
+"modulo":"48"
+},
+{ 
+"idunid":225,
+"nomunid":"Unidad 4",
+"desunid":"LUZ Y CALOR",
+"periodo":"192",
+"modulo":"48"
+},
+{ 
+"idunid":244,
+"nomunid":"Unidad 1",
+"desunid":"PERSONAL INFORMATION AND GREETINGS",
+"periodo":"233",
+"modulo":"59"
+},
+{ 
+"idunid":245,
+"nomunid":"Unidad 2",
+"desunid":"IS TIME FOR",
+"periodo":"234",
+"modulo":"59"
+},
+{ 
+"idunid":246,
+"nomunid":"Unidad 3",
+"desunid":"MY PREFERENCES AND TASTES",
+"periodo":"235",
+"modulo":"59"
+},
+{ 
+"idunid":247,
+"nomunid":"Unidad 4",
+"desunid":"ADJECTIVES TO DESCRIBE PEOPLE AND THINGS.",
+"periodo":"236",
+"modulo":"59"
+},
+{ 
+"idunid":313,
+"nomunid":"Unidad 1",
+"desunid":"ADICIÓN Y SUSTRACCIÓN NÚMEROS NATURALES",
+"periodo":"53",
+"modulo":"14"
+},
+{ 
+"idunid":314,
+"nomunid":"Unidad 2",
+"desunid":"MULTIPLICACIÓN Y DIVISIÓN DE LOS NÚMEROS NATURALES",
+"periodo":"54",
+"modulo":"14"
+},
+{ 
+"idunid":315,
+"nomunid":"Unidad 3",
+"desunid":"PENSAMIENTO MÉTRICO Y ESPACIAL - SISTEMA DE MEDIDAS",
+"periodo":"55",
+"modulo":"14"
+},
+{ 
+"idunid":316,
+"nomunid":"Unidad 4",
+"desunid":"PENSAMIENTO ALEATORIO - ESTADISTICA Y VARIACIÓN",
+"periodo":"56",
+"modulo":"14"
+},
+{ 
+"idunid":406,
+"nomunid":"Unidad 1",
+"desunid":"RELACIONES ETICO-POLITICAS.",
+"periodo":"301",
+"modulo":"76"
+},
+{ 
+"idunid":407,
+"nomunid":"Unidad 2",
+"desunid":"DEPARTAMENTO DEL CESAR Y LOS MUNICIPIOS",
+"periodo":"302",
+"modulo":"76"
+},
+{ 
+"idunid":408,
+"nomunid":"Unidad 3",
+"desunid":"NUESTRO PASADO INDIGENA",
+"periodo":"303",
+"modulo":"76"
+},
+{ 
+"idunid":409,
+"nomunid":"Unidad 4",
+"desunid":"LEYES Y GOBIERNO",
+"periodo":"304",
+"modulo":"76"
+}]

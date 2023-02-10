@@ -1,0 +1,889 @@
+[ 
+{ 
+"idcont":95,
+"titu_contenido":"LOS DERECHOS",
+"objetivo_general":"Identificar los derechos propios y ajenos para la sana convivencia.",
+"unidad":"22"
+},
+{ 
+"idcont":96,
+"titu_contenido":"LOS DEBERES",
+"objetivo_general":"Reconocer los deberes para ser aceptado en una comunidad.",
+"unidad":"22"
+},
+{ 
+"idcont":97,
+"titu_contenido":"NORMAS DE CONVIVENCIA",
+"objetivo_general":"Acatar las normas para mejorar el ambiente escolar.",
+"unidad":"22"
+},
+{ 
+"idcont":98,
+"titu_contenido":"ME VALORO",
+"objetivo_general":"Reconocer la importancia de valorarse a sí mismo y de su entorno escolar para la protección de sí mismo y de lo público.",
+"unidad":"22"
+},
+{ 
+"idcont":99,
+"titu_contenido":"EL RESPETO",
+"objetivo_general":"Reconocer la importancia de valorarse a sí mismo y de su entorno escolar para la protección de sí mismo y de lo público.",
+"unidad":"24"
+},
+{ 
+"idcont":100,
+"titu_contenido":"RESPETO A LA DIFERENCIA",
+"objetivo_general":"Aprender aceptar las diferencias de los demás.",
+"unidad":"24"
+},
+{ 
+"idcont":101,
+"titu_contenido":"DEBERES CON EL OTRO",
+"objetivo_general":"Reconocer los deberes para con nuestros semejantes.",
+"unidad":"24"
+},
+{ 
+"idcont":102,
+"titu_contenido":"CUIDO Y PROTEJO EL MEDIO",
+"objetivo_general":"Valorar la conservación de los recursos naturales.",
+"unidad":"24"
+},
+{ 
+"idcont":103,
+"titu_contenido":"EL VALOR DE LA VIDA",
+"objetivo_general":"Aprender a valorar la vida en todas sus manifestaciones.",
+"unidad":"24"
+},
+{ 
+"idcont":104,
+"titu_contenido":"¿QUÉ ES LA PAZ?",
+"objetivo_general":"Reflexionar sobre la paz como elemento primordial para la convivencia.",
+"unidad":"25"
+},
+{ 
+"idcont":105,
+"titu_contenido":"SOY SOLIDARIO",
+"objetivo_general":"Demostrar los valores comunitarios al manifestar la solidaridad al grupo.",
+"unidad":"25"
+},
+{ 
+"idcont":106,
+"titu_contenido":"EL DIÁLOGO",
+"objetivo_general":"Aprender la importancia del dialogo para la solución de conflictos.",
+"unidad":"25"
+},
+{ 
+"idcont":107,
+"titu_contenido":"SOY CONSTRUCTOR DE PAZ",
+"objetivo_general":"Participar en la construcción de la paz para su entorno.",
+"unidad":"25"
+},
+{ 
+"idcont":108,
+"titu_contenido":"SOLUCIÓN DE CONFLICTOS",
+"objetivo_general":"Ayudar  a los niños y niñas a desarrollar la capacidad de convivir con los demás utilizando el diálogo como herramienta diaria para solucionar sus problemas",
+"unidad":"26"
+},
+{ 
+"idcont":109,
+"titu_contenido":"LA ESCUCHA",
+"objetivo_general":"Reconocer la importancia que tiene el saber escuchar a las demás personas.",
+"unidad":"26"
+},
+{ 
+"idcont":110,
+"titu_contenido":"MANEJO MI LIBERTAD",
+"objetivo_general":"Enseñar a los niños y niñas la libertad no es hacer lo que queramos sin responsabilidad, si no hacer lo correcto ante la sociedad.",
+"unidad":"26"
+},
+{ 
+"idcont":111,
+"titu_contenido":"LA TOLERANCIA",
+"objetivo_general":"Reconocer la importancia de ser tolerantes con las demás personas para la solución de conflicto.",
+"unidad":"26"
+},
+{ 
+"idcont":442,
+"titu_contenido":"LAS VOCALES",
+"objetivo_general":"Identificar las cuales son las vocales abiertas y las cerradas dentro de un alfabeto.",
+"unidad":"93"
+},
+{ 
+"idcont":444,
+"titu_contenido":"LAS CONSONANTES  - LA CONSONANTE M",
+"objetivo_general":"Reconocer la consonante o letra m y aprender sus sonidos con sus respectivas vocales.",
+"unidad":"93"
+},
+{ 
+"idcont":445,
+"titu_contenido":"CONSONANTE P",
+"objetivo_general":"Identificar cuales palabras comienza con la letra o consonante p y cuáles son sus fonemas.",
+"unidad":"93"
+},
+{ 
+"idcont":446,
+"titu_contenido":"CONSONANTE Nn",
+"objetivo_general":"Identificar cuales palabras comienza con la letra N n y cuáles son sus fonemas.",
+"unidad":"93"
+},
+{ 
+"idcont":447,
+"titu_contenido":"CONSONANTE T",
+"objetivo_general":"Identificar cuales palabras comienza con la letra T y cuáles son sus fonemas.",
+"unidad":"93"
+},
+{ 
+"idcont":448,
+"titu_contenido":"CONSONANTE D-d",
+"objetivo_general":"Identificar cuales palabras comienza con la letra D y cuáles son sus fonemas.",
+"unidad":"93"
+},
+{ 
+"idcont":449,
+"titu_contenido":"EL ABECEDARIO",
+"objetivo_general":"Reconocer cuales son las letras del abecedario.",
+"unidad":"93"
+},
+{ 
+"idcont":450,
+"titu_contenido":"PALABRAS CON R Y RR",
+"objetivo_general":"Identificar las palabras que llevan r y rr",
+"unidad":"95"
+},
+{ 
+"idcont":452,
+"titu_contenido":"PALABRAS CON CA, CO, CU.",
+"objetivo_general":"Aprender a utilizar el uso correcto de las CA, CO, CU.",
+"unidad":"95"
+},
+{ 
+"idcont":453,
+"titu_contenido":"PALABRAS CON AL, EL, IL, OL, UL.",
+"objetivo_general":"Escribir correctamente las palabras que lleven al, el, il, ol, ul.",
+"unidad":"96"
+},
+{ 
+"idcont":454,
+"titu_contenido":"PALABRAS AN, EN, IN, ON, UN",
+"objetivo_general":"identificar correctamente  palabras que lleven an, en, in, on, un.",
+"unidad":"96"
+},
+{ 
+"idcont":455,
+"titu_contenido":"PALABRAS AR, ER, IR, OR, UR",
+"objetivo_general":"Reconocer correctamente los inversos ar, er, ir, or, ur.",
+"unidad":"96"
+},
+{ 
+"idcont":456,
+"titu_contenido":"PALABRAS AS, ES, IS, OS, US.",
+"objetivo_general":"Escribir correctamente palabras  que lleven as, es, is, os, us.",
+"unidad":"96"
+},
+{ 
+"idcont":457,
+"titu_contenido":"PALABRAS QUE, QUI",
+"objetivo_general":"Usar correctamente las palabras que llevan que, qui.",
+"unidad":"95"
+},
+{ 
+"idcont":459,
+"titu_contenido":"PALABRAS CON B Y V",
+"objetivo_general":"Identificar de manera correcta el uso de la b y v, y aplicarlo de manera correcta en los escritos.",
+"unidad":"97"
+},
+{ 
+"idcont":460,
+"titu_contenido":"PALABRAS CON Ñ",
+"objetivo_general":"Aprender el nombre y el sonido de la ñ.",
+"unidad":"97"
+},
+{ 
+"idcont":461,
+"titu_contenido":"PALABRAS CON G (GA, GE, GI GO, GU)",
+"objetivo_general":"Escribir palabras correctamente con la consonante g, y sus sonidos ga, ge, gi go, gu.",
+"unidad":"98"
+},
+{ 
+"idcont":462,
+"titu_contenido":"PALABRAS CON GÜE –GÜI, GUE-GUI",
+"objetivo_general":"Escribir palabras correctamente con la consonante g, y sus sonidos GÜE –GÜI, GUE-GUI",
+"unidad":"98"
+},
+{ 
+"idcont":463,
+"titu_contenido":"PALABRAS CON Y",
+"objetivo_general":"Escribir correctamente palabras con y.",
+"unidad":"98"
+},
+{ 
+"idcont":464,
+"titu_contenido":"PALABRAS CON H",
+"objetivo_general":"Escribir correctamente palabras con H",
+"unidad":"98"
+},
+{ 
+"idcont":465,
+"titu_contenido":"PALABRAS CON CH",
+"objetivo_general":"Escribir correctamente palabras con CH",
+"unidad":"98"
+},
+{ 
+"idcont":466,
+"titu_contenido":"PALABRAS CON K",
+"objetivo_general":"Identificar correctamente las palabras con k.",
+"unidad":"98"
+},
+{ 
+"idcont":467,
+"titu_contenido":"PALABRAS CON X",
+"objetivo_general":"Utilizar correctamente las palabras que lleven",
+"unidad":"98"
+},
+{ 
+"idcont":468,
+"titu_contenido":"PALABRAS CON F",
+"objetivo_general":"Escribir correctamente palabras con f.",
+"unidad":"98"
+},
+{ 
+"idcont":469,
+"titu_contenido":"PALABRAS CON W",
+"objetivo_general":"Utilizar adecuadamente palabras con w.",
+"unidad":"98"
+},
+{ 
+"idcont":470,
+"titu_contenido":"PALABRAS CON Z",
+"objetivo_general":"Escribir correctamente palabras que lleven la letra z.",
+"unidad":"98"
+},
+{ 
+"idcont":471,
+"titu_contenido":"PALABRAS CON AY, EY, OY UY",
+"objetivo_general":"Utilizar correctamente palabras con ay, ey, oy, uy.",
+"unidad":"98"
+},
+{ 
+"idcont":472,
+"titu_contenido":"PALABRAS CON CE, CI",
+"objetivo_general":"Reconocer cuáles palabras se escriben con Ce y con Ci.",
+"unidad":"98"
+},
+{ 
+"idcont":474,
+"titu_contenido":"POEMA",
+"objetivo_general":"Conocer qué es un poema y cuáles son sus partes.",
+"unidad":"99"
+},
+{ 
+"idcont":475,
+"titu_contenido":"TRABALENGUAS",
+"objetivo_general":"Trabajar los trabalenguas con los niños para mejorar la articulación de los fonemas, la fluidez verbal y que aprendan a rimar.",
+"unidad":"99"
+},
+{ 
+"idcont":476,
+"titu_contenido":"ADIVINANZAS",
+"objetivo_general":"Desarrollar habilidades de entonación y fonética sobre la base de las adivinanzas.",
+"unidad":"99"
+},
+{ 
+"idcont":477,
+"titu_contenido":"RONDAS, CANCIONES, JUEGOS",
+"objetivo_general":"Reconocer que los juegos, rondas y canciones tradicionales son herramientas activas en los procesos formativos de las niñas y niños.",
+"unidad":"99"
+},
+{ 
+"idcont":478,
+"titu_contenido":"TEATRO",
+"objetivo_general":"Mejorar la concentración y representación mental para representarla.",
+"unidad":"99"
+},
+{ 
+"idcont":479,
+"titu_contenido":"DRAMA Y COMEDIA",
+"objetivo_general":"Provocar la risa en los espectadores, llevándolos a la reflexión sobre el conflicto que se expone y que se muestra como algo que puede ocurrir en la vida real.",
+"unidad":"99"
+},
+{ 
+"idcont":1017,
+"titu_contenido":"ÓRGANOS DE LOS SENTIDOS",
+"objetivo_general":"Aprender a diferenciar los cinco sentidos y aprender las características de cada uno de ellos.",
+"unidad":"214"
+},
+{ 
+"idcont":1018,
+"titu_contenido":"ÓRGANOS DE LOS SENTIDOS - LA VISTA (LOS OJOS)",
+"objetivo_general":"Conocer la importancia que tiene la vista (el ojo) en nuestro cuerpo humano.",
+"unidad":"214"
+},
+{ 
+"idcont":1019,
+"titu_contenido":"ÓRGANOS DE LOS SENTIDOS - LA AUDICIÓN(LOS OÍDOS)",
+"objetivo_general":"Conocer la importancia que tiene la audición (los oídos) en nuestro cuerpo humano.",
+"unidad":"214"
+},
+{ 
+"idcont":1020,
+"titu_contenido":"ÓRGANOS DE LOS SENTIDOS - EL OLFATO (LA NARIZ)",
+"objetivo_general":"Conocer la importancia que tiene el olfato (la nariz) en nuestro cuerpo humano.",
+"unidad":"214"
+},
+{ 
+"idcont":1021,
+"titu_contenido":"ÓRGANOS DE LOS SENTIDOS - EL GUSTO (LA LENGUA)",
+"objetivo_general":"Conocer la importancia que tiene el gusto (la lengua) En el cuerpo humano.",
+"unidad":"214"
+},
+{ 
+"idcont":1022,
+"titu_contenido":"ÓRGANOS DE LOS SENTIDOS - EL TACTO (LA PIEL).",
+"objetivo_general":"Conocer la importancia que tiene el tacto (la piel) en nuestro cuerpo.",
+"unidad":"214"
+},
+{ 
+"idcont":1023,
+"titu_contenido":"EL CUERPO HUMANO",
+"objetivo_general":"Aprender a conocer  su cuerpo y valorar la importancia de cuidarlo y mantenerlo sano.",
+"unidad":"214"
+},
+{ 
+"idcont":1024,
+"titu_contenido":"ESTRUCTURA DEL CUERPO HUMANO.",
+"objetivo_general":"Conocer la estructura y función del cuerpo humano.",
+"unidad":"214"
+},
+{ 
+"idcont":1025,
+"titu_contenido":"SIMILITUD Y DIFERENCIAS FÍSICAS DEL CUERPO HUMANO ENTRE NIÑOS Y NIÑAS.",
+"objetivo_general":"Conozco las partes de mi cuerpo.",
+"unidad":"214"
+},
+{ 
+"idcont":1026,
+"titu_contenido":"HERENCIA",
+"objetivo_general":"Aprender en qué consiste la herencia.",
+"unidad":"214"
+},
+{ 
+"idcont":1027,
+"titu_contenido":"SERES VIVOS Y NO VIVOS",
+"objetivo_general":"Ampliar los conocimientos de los niños y niñas que tiene sobre los seres vivos y no vivos.",
+"unidad":"215"
+},
+{ 
+"idcont":1028,
+"titu_contenido":"CARACTERÍSTICA DE LOS SERES VIVOS",
+"objetivo_general":"Describo las característica de los seres vivos.",
+"unidad":"215"
+},
+{ 
+"idcont":1029,
+"titu_contenido":"LAS PLANTAS: SUS PARTES",
+"objetivo_general":"Reconocer las partes de las plantas,  sus funciones y característica.",
+"unidad":"215"
+},
+{ 
+"idcont":1030,
+"titu_contenido":"LOS ANIMALES: CLASIFICACIÓN SEGÚN SU ALIMENTACIÓN, HÁBITAT Y REPRODUCCIÓN; Y SUS CARACTERÍSTICAS.",
+"objetivo_general":"Conocer la clasificación, su hábitat, su reproducción en animales.",
+"unidad":"215"
+},
+{ 
+"idcont":1031,
+"titu_contenido":"ECOSISTEMA",
+"objetivo_general":"Identifica los componentes bióticos y abióticos de un ecosistema.",
+"unidad":"215"
+},
+{ 
+"idcont":1032,
+"titu_contenido":"LOS RECURSOS NATURALES Y EL AMBIENTE",
+"objetivo_general":"Reconocer los recursos naturales y el medio ambiente que lo rodea.",
+"unidad":"215"
+},
+{ 
+"idcont":1033,
+"titu_contenido":"EL AGUA",
+"objetivo_general":"Reconozco el cuidado que debemos tener con el agua",
+"unidad":"216"
+},
+{ 
+"idcont":1034,
+"titu_contenido":"EL SOL",
+"objetivo_general":"Identifico las características del día y de noche.",
+"unidad":"216"
+},
+{ 
+"idcont":1035,
+"titu_contenido":"LA TIERRA",
+"objetivo_general":"Ubicar correctamente la tierra nuestro planeta en el sistema solar.",
+"unidad":"216"
+},
+{ 
+"idcont":1036,
+"titu_contenido":"EL AIRE",
+"objetivo_general":"Conocer la importancia de proteger el aire que respiramos.",
+"unidad":"216"
+},
+{ 
+"idcont":1037,
+"titu_contenido":"LA MATERIA",
+"objetivo_general":"Conocer el concepto y las propiedades de la materia.",
+"unidad":"217"
+},
+{ 
+"idcont":1038,
+"titu_contenido":"ESTADOS DE LA MATERIA",
+"objetivo_general":"Conocer los estados de la materia.",
+"unidad":"217"
+},
+{ 
+"idcont":1039,
+"titu_contenido":"LA ENERGÍA, LUZ Y CALOR",
+"objetivo_general":"Identificar las distintas formas de energía, reconocer las acciones que permiten el ahorro de energía.",
+"unidad":"217"
+},
+{ 
+"idcont":1040,
+"titu_contenido":"EL SONIDO",
+"objetivo_general":"Identificar los objetos que hacen sonidos.",
+"unidad":"217"
+},
+{ 
+"idcont":1173,
+"titu_contenido":"GREETINGS and FAREWELLS",
+"objetivo_general":"Adquirir la habilidad de utilizar saludos y despedidas en inglés.",
+"unidad":"236"
+},
+{ 
+"idcont":1174,
+"titu_contenido":"COMMANDS CLASSSROOM",
+"objetivo_general":"Enriquecer el vocabulario y escritura de la lengua inglesa en los niños de primer grado.",
+"unidad":"236"
+},
+{ 
+"idcont":1175,
+"titu_contenido":"CLASSROOM OBJECTS",
+"objetivo_general":"Identificar y mencionar los objetos del salón de clases en inglés con su respectivo significado en español.",
+"unidad":"236"
+},
+{ 
+"idcont":1176,
+"titu_contenido":"INTRODUCE MYSELF",
+"objetivo_general":"Conocer y practicar las diferentes opciones al presentarse en inglés.",
+"unidad":"236"
+},
+{ 
+"idcont":1177,
+"titu_contenido":"SHAPES",
+"objetivo_general":"Conocer las diferentes figuras geométricas  y su pronunciación en inglés y  aprender a diferenciarlas unas de otras.",
+"unidad":"236"
+},
+{ 
+"idcont":1178,
+"titu_contenido":"PARTS OF THE BODY",
+"objetivo_general":"Despertar el interés en los estudiantes por aprender las partes del cuerpo en inglés.",
+"unidad":"237"
+},
+{ 
+"idcont":1179,
+"titu_contenido":"NUMBERS FROM 1 TO 10",
+"objetivo_general":"Aprender a escribir y pronunciar los números en inglés",
+"unidad":"237"
+},
+{ 
+"idcont":1180,
+"titu_contenido":"COLORS: (PRIMARY COLORS)",
+"objetivo_general":"Aprender los colores en inglés y español, es una parte esencial en el desarrollo de los estudiantes, ya que es una herramienta de comunicación muy útil para ellos, y le permite tener influencia en el ánimo y la percepción de las cosas.",
+"unidad":"237"
+},
+{ 
+"idcont":1181,
+"titu_contenido":"PROFESSIONS",
+"objetivo_general":"Enseñarle las profesiones en inglés y español desde temprana edad.",
+"unidad":"237"
+},
+{ 
+"idcont":1182,
+"titu_contenido":"MY CLOTHES",
+"objetivo_general":"Conocer el vocabulario de términos relacionados con la ropa y las formas de vestir, así como de sus complementos.",
+"unidad":"238"
+},
+{ 
+"idcont":1183,
+"titu_contenido":"THE WEATHER",
+"objetivo_general":"Conocer el vocabulario del tiempo meteorológico y expresiones de tiempo.",
+"unidad":"238"
+},
+{ 
+"idcont":1184,
+"titu_contenido":"MY WEEK",
+"objetivo_general":"Aprender los días de la semana en inglés, ya que es una forma importante de medir el tiempo.",
+"unidad":"238"
+},
+{ 
+"idcont":1185,
+"titu_contenido":"PARTS OF THE HOUSE",
+"objetivo_general":"Aprender las diferentes partes de una casa.",
+"unidad":"238"
+},
+{ 
+"idcont":1186,
+"titu_contenido":"FOODS",
+"objetivo_general":"Aprender los nombres de los alimentos en ingles tanto su escritura como su pronunciación.",
+"unidad":"239"
+},
+{ 
+"idcont":1187,
+"titu_contenido":"THE FARM ANIMALS",
+"objetivo_general":"Conocer y Aprender los nombres de los animales de la granja (The farm animals) en inglés.",
+"unidad":"239"
+},
+{ 
+"idcont":1188,
+"titu_contenido":"JUNGLE ANIMALS",
+"objetivo_general":"Aprender los nombres de jungle animals, animales de la selva en inglés.",
+"unidad":"239"
+},
+{ 
+"idcont":1276,
+"titu_contenido":"CONJUNTOS Y ELEMENTOS",
+"objetivo_general":"Agrupar y nombrar los diferentes elementos de conjuntos y clasificar los diferentes tipos de conjuntos.",
+"unidad":"259"
+},
+{ 
+"idcont":1278,
+"titu_contenido":"MÁS QUE – MENOS QUE",
+"objetivo_general":"Comparar cantidades correctamente, estableciendo diferencias entre conjuntos y relacionar pictogramas que representan orden.",
+"unidad":"259"
+},
+{ 
+"idcont":1280,
+"titu_contenido":"NÚMEROS DEL 0 AL 9",
+"objetivo_general":"Representar simbólicamente cantidades, conocer los números naturales y relacionar cantidades con su forma numérica.",
+"unidad":"259"
+},
+{ 
+"idcont":1281,
+"titu_contenido":"LA DECENA",
+"objetivo_general":"Agrupar colecciones de elementos como decenas y reconocer la agrupación de la decena como parte de la descomposición de números",
+"unidad":"259"
+},
+{ 
+"idcont":1282,
+"titu_contenido":"RELACIÓN DE ORDEN",
+"objetivo_general":"Establecer secuencias lógicas con números para comparar adecuadamente valores numéricos reconociendo cantidades y expresarlas de forma gráfica.",
+"unidad":"259"
+},
+{ 
+"idcont":1284,
+"titu_contenido":"NÚMEROS ORDINALES",
+"objetivo_general":"Posicionar elementos dentro de un conjunto estableciendo las relaciones de orden y clasificando elementos según su disposición en el espacio.",
+"unidad":"259"
+},
+{ 
+"idcont":1285,
+"titu_contenido":"NÚMEROS HASTA EL 19",
+"objetivo_general":"Reconocer la numeración de dos cifras y su escritura para representar cantidades entre 10 y 19.",
+"unidad":"259"
+},
+{ 
+"idcont":1286,
+"titu_contenido":"ORDEN DE NÚMEROS HASTA EL 19",
+"objetivo_general":"Establecer nociones de orden para valores superiores a 10 y menores de 20, comparando las cantidades y su representación numérica.",
+"unidad":"259"
+},
+{ 
+"idcont":1288,
+"titu_contenido":"LOS NÚMEROS DEL 0 AL 99",
+"objetivo_general":"Interpretar los números de dos cifras y los puedan representar simbólicamente y en su debido orden del 0 al 99.",
+"unidad":"262"
+},
+{ 
+"idcont":1290,
+"titu_contenido":"NÚMERO ANTES QUE Y DESPUÉS QUE",
+"objetivo_general":"Establecer que los niños identifiquen la relación de jerarquía entre los números, reforzando de igual manera el orden numérico.",
+"unidad":"262"
+},
+{ 
+"idcont":1292,
+"titu_contenido":"NÚMERO MAYOR QUE Y MENOR QUE",
+"objetivo_general":"Comparar cantidades correctamente, reconocer los símbolos básicos de las matemáticas y para relacionar magnitudes numéricas.",
+"unidad":"262"
+},
+{ 
+"idcont":1293,
+"titu_contenido":"ADICIÓN Y SUSTRACCIÓN CON NÚMEROS HASTA 99",
+"objetivo_general":"Reconocer los signos de suma y resta, así como su representación numérica y sumar o restar unidades y decenas correctamente.",
+"unidad":"262"
+},
+{ 
+"idcont":1295,
+"titu_contenido":"LA CENTENA",
+"objetivo_general":"Aprender a ubicar las centenas en números de tres cifras y reconocerán los valores posicionales.",
+"unidad":"262"
+},
+{ 
+"idcont":1297,
+"titu_contenido":"USO DE LOS NÚMEROS CARDINALES Y ORDINALES",
+"objetivo_general":"Establecer diferencias entre los números cardinales y ordinales, así como la forma adecuada de utilizar cada uno y sus equivalencias entre números.",
+"unidad":"262"
+},
+{ 
+"idcont":1300,
+"titu_contenido":"NÚMEROS HASTA 999",
+"objetivo_general":"Contar cantidades menores a 1000, reconociendo así los números de tres cifras y relacionando las cantidades con sus respectivos valores numéricos.",
+"unidad":"262"
+},
+{ 
+"idcont":1301,
+"titu_contenido":"ADICIÓN Y SUSTRACCIÓN CON NÚMEROS DE TRES CIFRAS",
+"objetivo_general":"Agrupar y operar adecuadamente según el valor posicional correspondiente.",
+"unidad":"262"
+},
+{ 
+"idcont":1304,
+"titu_contenido":"MESES DEL AÑO",
+"objetivo_general":"Aprender a identificar los meses que trae un año y ubicar las fechas con meses por orden.",
+"unidad":"264"
+},
+{ 
+"idcont":1306,
+"titu_contenido":"DÍAS DE LA SEMANA",
+"objetivo_general":"Identificar y posicionar los días de la semana y establecer sus diferencias.",
+"unidad":"264"
+},
+{ 
+"idcont":1308,
+"titu_contenido":"EL CALENDARIO",
+"objetivo_general":"Comprender el uso y la importancia del calendario, estableciendo así secuencias lógicas entre fechas.",
+"unidad":"264"
+},
+{ 
+"idcont":1309,
+"titu_contenido":"EL RELOJ",
+"objetivo_general":"Ubicar las horas en el reloj, así como a escribir y leer la hora.",
+"unidad":"264"
+},
+{ 
+"idcont":1314,
+"titu_contenido":"ARRIBA-ABAJO",
+"objetivo_general":"Identificar objetos, personas o animales, con diferente posición vertical en un plano.",
+"unidad":"264"
+},
+{ 
+"idcont":1316,
+"titu_contenido":"IZQUIERDA-DERECHA",
+"objetivo_general":"Aprender a referenciar objetos, personas o animales, con diferente posición horizontal en un plano, así como a reconocer la lateralidad.",
+"unidad":"264"
+},
+{ 
+"idcont":1317,
+"titu_contenido":"ANCHO - DELGADO",
+"objetivo_general":"Establecer diferencias y clasificación según la forma y medidas.",
+"unidad":"264"
+},
+{ 
+"idcont":1319,
+"titu_contenido":"VACÍO - LLENO",
+"objetivo_general":"Identificar los conceptos y diferencias entre lleno y vacío.",
+"unidad":"264"
+},
+{ 
+"idcont":1326,
+"titu_contenido":"LONGITUD Y SUS UNIDADES",
+"objetivo_general":"Aprender a medir objetos según las unidades de longitud",
+"unidad":"264"
+},
+{ 
+"idcont":1327,
+"titu_contenido":"LA MASA Y EL PESO",
+"objetivo_general":"Reconocer la masa como una propiedad de todos los cuerpos y descubrirá la importancia de la balanza.",
+"unidad":"264"
+},
+{ 
+"idcont":1329,
+"titu_contenido":"POLÍGONOS: RECTÁNGULO, TRIÁNGULO, CUADRADO, CÍRCULO",
+"objetivo_general":"Conocer las formas geométricas básicas y se establecerá diferencias entre formas geométricas.",
+"unidad":"268"
+},
+{ 
+"idcont":1330,
+"titu_contenido":"CUBOS, PIRÁMIDES Y ESFERA",
+"objetivo_general":"Conocer las formas básicas y afianzar los conceptos de volumen.",
+"unidad":"268"
+},
+{ 
+"idcont":1331,
+"titu_contenido":"CUERPOS REDONDOS",
+"objetivo_general":"Estudiar y conocer los cuerpos redondos.",
+"unidad":"268"
+},
+{ 
+"idcont":1334,
+"titu_contenido":"FIGURAS PLANAS",
+"objetivo_general":"Conocer las formas planas geométricas, y del mismo modo generar la respectiva identificación.",
+"unidad":"268"
+},
+{ 
+"idcont":1336,
+"titu_contenido":"LÍNEAS CURVAS Y RECTAS",
+"objetivo_general":"Identificar las clases de líneas y reconocerá las líneas en planos y en figuras.",
+"unidad":"268"
+},
+{ 
+"idcont":1338,
+"titu_contenido":"LAS RECTAS",
+"objetivo_general":"Reconocer las rectas y su importancia en las matemáticas.",
+"unidad":"268"
+},
+{ 
+"idcont":1339,
+"titu_contenido":"LÍNEAS PARALELAS",
+"objetivo_general":"Identificar los conceptos y conocimientos generales sobre el significado de las líneas paralelas.",
+"unidad":"268"
+},
+{ 
+"idcont":1340,
+"titu_contenido":"LÍNEAS VERTICALES Y HORIZONTALES",
+"objetivo_general":"Caracterizar líneas según su dirección y reconocer las diferentes posiciones de las líneas.",
+"unidad":"268"
+},
+{ 
+"idcont":1501,
+"titu_contenido":"COMENSALISMO (INTERESPECÍFICA)",
+"objetivo_general":"Conocer y comprender el comensalismo interespecífica dentro de las relaciones ecológicas.",
+"unidad":"217"
+},
+{ 
+"idcont":1973,
+"titu_contenido":"COMO SOY (RASGOS Y CARACTERÍSTICAS FÍSICAS)",
+"objetivo_general":"Identificar algunas características físicas, sociales, culturales y emocionales que hacen de mí un ser único.",
+"unidad":"382"
+},
+{ 
+"idcont":1974,
+"titu_contenido":"LA FAMILIA (RECONOZCO MIS COSTUMBRES Y MEDIO FAMILIAR)",
+"objetivo_general":"Reconocer y valora costumbres y tradiciones que se manifiestan en los grupos sociales a los que pertenece.",
+"unidad":"382"
+},
+{ 
+"idcont":1975,
+"titu_contenido":"INTEGRANTES DE LA FAMILIA",
+"objetivo_general":"Identificar a los miembros de su familia y escribir su nombres.",
+"unidad":"382"
+},
+{ 
+"idcont":1976,
+"titu_contenido":"REGLAS O NORMAS DE LA FAMILIA",
+"objetivo_general":"Facilitar la convivencia a los habitantes de dicha sociedad (en este caso, los habitantes de la casa), para que estos puedan vivir en armonía.",
+"unidad":"382"
+},
+{ 
+"idcont":1977,
+"titu_contenido":"DERECHOS Y DEBERES DE LOS NIÑOS EN LA FAMILIA",
+"objetivo_general":"Valorar los derechos y deberes de los miembros de la familia para lograr una convivencia armónica.",
+"unidad":"382"
+},
+{ 
+"idcont":1978,
+"titu_contenido":"LA VIVIENDA",
+"objetivo_general":"Conocer los diferentes tipos de materiales de vivienda.",
+"unidad":"382"
+},
+{ 
+"idcont":1979,
+"titu_contenido":"MI  ESCUELA Y SUS SÍMBOLOS",
+"objetivo_general":"Identificar y reconocer algunas organizaciones sociales a las que pertenezco como la escuela.",
+"unidad":"383"
+},
+{ 
+"idcont":1980,
+"titu_contenido":"DEBERES DEL ESTUDIANTE",
+"objetivo_general":"Dar a conocer los deberes de los niños.",
+"unidad":"383"
+},
+{ 
+"idcont":1981,
+"titu_contenido":"EL MANUAL DE CONVIVENCIA",
+"objetivo_general":"Desarrollar acciones que permitan vivenciar una sana convivencia.",
+"unidad":"383"
+},
+{ 
+"idcont":1982,
+"titu_contenido":"NUESTRA COMUNIDAD",
+"objetivo_general":"Valorar la importancia de vivir en una comunidad y sociedad promoviendo una participación activa en el fortalecimiento de una sociedad democrática con derechos y deberes que permita el desarrollo de la persona y  el bien común.",
+"unidad":"383"
+},
+{ 
+"idcont":1983,
+"titu_contenido":"EL BARRIO Y SUS LUGARES",
+"objetivo_general":"Identificar el barrio y las zonas que lo conforman.",
+"unidad":"383"
+},
+{ 
+"idcont":1984,
+"titu_contenido":"LOS MEDIOS DE TRANSPORTE",
+"objetivo_general":"Identificar los distintos medios de transporte y comprender sus características y ventajas.",
+"unidad":"383"
+},
+{ 
+"idcont":1985,
+"titu_contenido":"LOS PUNTOS CARDINALES",
+"objetivo_general":"Identificar los puntos cardinales geográficos Norte, Sur, Este y Oeste.",
+"unidad":"384"
+},
+{ 
+"idcont":1986,
+"titu_contenido":"LA BRÚJULA",
+"objetivo_general":"Conocer las partes y funcionamiento de la brújula.",
+"unidad":"384"
+},
+{ 
+"idcont":1987,
+"titu_contenido":"LOS MAPAS Y LOS PLANOS",
+"objetivo_general":"Identificar las características de los planos y mapas.",
+"unidad":"384"
+},
+{ 
+"idcont":1988,
+"titu_contenido":"EL TIEMPO",
+"objetivo_general":"Comprende la relación de equivalencia existente entre horas minutos y segundos.",
+"unidad":"384"
+},
+{ 
+"idcont":1989,
+"titu_contenido":"ORIENTACIÓN GEOGRÁFICA Y PAISAJES",
+"objetivo_general":"Conocer algunas características físicas y sociales de los tipos de paisajes que influyen en el espacio en que me muevo.",
+"unidad":"384"
+},
+{ 
+"idcont":1990,
+"titu_contenido":"EL RELIEVE",
+"objetivo_general":"Conocer las principales unidades del relieve, océano y ríos  de la tierra.",
+"unidad":"384"
+},
+{ 
+"idcont":1991,
+"titu_contenido":"MI PAÍS Y LOS SÍMBOLOS PATRIOS.",
+"objetivo_general":"Conocer nuestros símbolos patrios de nuestro país que son la bandera, el escudo y el himno nacional.",
+"unidad":"385"
+},
+{ 
+"idcont":1992,
+"titu_contenido":"LOS DEPARTAMENTOS DE COLOMBIA.",
+"objetivo_general":"Conoce su departamento y municipio como entidad territorial de Colombia.",
+"unidad":"385"
+},
+{ 
+"idcont":1993,
+"titu_contenido":"MI MUNICIPIO",
+"objetivo_general":"Conoce su departamento y municipio como entidad territorial de Colombia.",
+"unidad":"385"
+},
+{ 
+"idcont":1994,
+"titu_contenido":"LA ZONA URBANA Y RURAL.",
+"objetivo_general":"Reconocer la diferencia de una zona urbana y una zona rural.",
+"unidad":"385"
+}]

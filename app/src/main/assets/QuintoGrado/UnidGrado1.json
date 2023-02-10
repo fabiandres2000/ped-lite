@@ -1,0 +1,246 @@
+[ 
+{ 
+"idunid":39,
+"nomunid":"Unidad 1",
+"desunid":"¿PODEMOS APORTAR Y CONSTRUIR PAZ INTERIOR DESDE CADA UNO DE NOSOTROS?",
+"periodo":"97",
+"modulo":"25"
+},
+{ 
+"idunid":40,
+"nomunid":"Unidad 2",
+"desunid":"¿CREES QUE ES IMPORTANTE EL PROCESO DE PAZ EN COLOMBIA?",
+"periodo":"98",
+"modulo":"25"
+},
+{ 
+"idunid":41,
+"nomunid":"Unidad 3",
+"desunid":"¿LOS VALORES SON IMPORTANTES PARA LA SANA CONVIVENCIA?",
+"periodo":"99",
+"modulo":"25"
+},
+{ 
+"idunid":42,
+"nomunid":"Unidad 4",
+"desunid":"¿ES IMPORTANTE VIVIR LA ARMONIA EN FAMILIA?",
+"periodo":"100",
+"modulo":"25"
+},
+{ 
+"idunid":160,
+"nomunid":"Unidad 1",
+"desunid":"GÉNERO NARRATIVO",
+"periodo":"140",
+"modulo":"36"
+},
+{ 
+"idunid":161,
+"nomunid":"Unidad 2",
+"desunid":"ORTOGRAFÍA",
+"periodo":"140",
+"modulo":"36"
+},
+{ 
+"idunid":162,
+"nomunid":"Unidad 3",
+"desunid":"SEMÁNTICA",
+"periodo":"140",
+"modulo":"36"
+},
+{ 
+"idunid":164,
+"nomunid":"Unidad 4",
+"desunid":"MEDIOS DE COMUNICACIÓN",
+"periodo":"140",
+"modulo":"36"
+},
+{ 
+"idunid":165,
+"nomunid":"Unidad 1",
+"desunid":"LITERATURA ( CLASES DE TEXTOS NARRATIVOS)",
+"periodo":"141",
+"modulo":"36"
+},
+{ 
+"idunid":166,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"141",
+"modulo":"36"
+},
+{ 
+"idunid":168,
+"nomunid":"Unidad 3",
+"desunid":"ORTOGRAFÍA",
+"periodo":"141",
+"modulo":"36"
+},
+{ 
+"idunid":170,
+"nomunid":"Unidad 4",
+"desunid":"MEDIOS COMUNICACIÓN",
+"periodo":"141",
+"modulo":"36"
+},
+{ 
+"idunid":172,
+"nomunid":"Unidad 1",
+"desunid":"LITERATURA",
+"periodo":"142",
+"modulo":"36"
+},
+{ 
+"idunid":174,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"142",
+"modulo":"36"
+},
+{ 
+"idunid":175,
+"nomunid":"Unidad 3",
+"desunid":"ORTOGRAFÍA",
+"periodo":"142",
+"modulo":"36"
+},
+{ 
+"idunid":176,
+"nomunid":"Unidad 4",
+"desunid":"MEDIOS DE COMUNICACIÓN",
+"periodo":"142",
+"modulo":"36"
+},
+{ 
+"idunid":177,
+"nomunid":"Unidad 1",
+"desunid":"GÉNERO DRAMÁTICO",
+"periodo":"143",
+"modulo":"36"
+},
+{ 
+"idunid":178,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"143",
+"modulo":"36"
+},
+{ 
+"idunid":179,
+"nomunid":"Unidad 3",
+"desunid":"CÓDIGOS NO LINGÜÍSTICOS",
+"periodo":"143",
+"modulo":"36"
+},
+{ 
+"idunid":232,
+"nomunid":"Unidad 1",
+"desunid":"PROCESOS VITALES Y ORGANIZACIÓN DE LOS SERES VIVOS",
+"periodo":"197",
+"modulo":"50"
+},
+{ 
+"idunid":233,
+"nomunid":"Unidad 2",
+"desunid":"EL  CUERPO HUMANO",
+"periodo":"198",
+"modulo":"50"
+},
+{ 
+"idunid":234,
+"nomunid":"Unidad 3",
+"desunid":"ELECTRICIDAD",
+"periodo":"199",
+"modulo":"50"
+},
+{ 
+"idunid":235,
+"nomunid":"Unidad 4",
+"desunid":"ÁTOMO Y ENERGÍA",
+"periodo":"200",
+"modulo":"50"
+},
+{ 
+"idunid":252,
+"nomunid":"Unidad 1",
+"desunid":"INFORMATION ABOUT ME AND OTHER PERSONS.",
+"periodo":"241",
+"modulo":"61"
+},
+{ 
+"idunid":253,
+"nomunid":"Unidad 2",
+"desunid":"EXPRESSIONS RELATED TO PLACE AND TIME",
+"periodo":"242",
+"modulo":"61"
+},
+{ 
+"idunid":255,
+"nomunid":"Unidad 3",
+"desunid":"CONECTORS AND WORD TO USE ALL TIME.",
+"periodo":"243",
+"modulo":"61"
+},
+{ 
+"idunid":256,
+"nomunid":"Unidad 4",
+"desunid":"EXPRESSIONS TO TALK ABOUT MY ENVIROMENT.",
+"periodo":"244",
+"modulo":"61"
+},
+{ 
+"idunid":370,
+"nomunid":"Unidad 1",
+"desunid":"PENSAMIENTO NUMÉRICO - NÚMEROS NATURALES",
+"periodo":"61",
+"modulo":"16"
+},
+{ 
+"idunid":371,
+"nomunid":"Unidad 2",
+"desunid":"NÚMEROS FRACCIONARIOS",
+"periodo":"62",
+"modulo":"16"
+},
+{ 
+"idunid":372,
+"nomunid":"Unidad 3",
+"desunid":"SOLIDOS, POLIGONOS Y ELEMENTOS GEOMETRICOS",
+"periodo":"63",
+"modulo":"16"
+},
+{ 
+"idunid":373,
+"nomunid":"Unidad 4",
+"desunid":"ESTADISTICA Y VARIACIÓN",
+"periodo":"64",
+"modulo":"16"
+},
+{ 
+"idunid":374,
+"nomunid":"Unidad 1",
+"desunid":"RELACIONES ÉTICO-POLÍTICAS",
+"periodo":"309",
+"modulo":"78"
+},
+{ 
+"idunid":375,
+"nomunid":"Unidad 2",
+"desunid":"RELACIONES CON LA HISTORIA Y LAS CULTURAS",
+"periodo":"310",
+"modulo":"78"
+},
+{ 
+"idunid":376,
+"nomunid":"Unidad 3",
+"desunid":"ASPECTOS GEOGRÁFICOS Y POLÍTICOS DE COLOMBIA",
+"periodo":"311",
+"modulo":"78"
+},
+{ 
+"idunid":377,
+"nomunid":"Unidad 4",
+"desunid":"ME PREPARO PARA UN NUEVO RETO",
+"periodo":"312",
+"modulo":"78"
+}]

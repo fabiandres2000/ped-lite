@@ -1,0 +1,450 @@
+<!-- - var menuBorder = true-->
+<!DOCTYPE html>
+    <html class="loading" lang="en" data-textdirection="ltr">
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui" />
+        <meta name="description"
+            content="Stack admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities." />
+        <meta name="keywords"
+            content="admin template, stack admin template, dashboard template, flat admin template, responsive admin template, web app" />
+        <meta name="author" content="PIXINVENT" />
+        <title>Grados - PEDIGITAL-LITE</title>
+        <link rel="shortcut icon" type="image/x-icon" href="../app-assets/images/ico/PED.ico" />
+        <link href="../app-assets/css/font.css" rel="stylesheet" />
+        <!-- BEGIN VENDOR CSS-->
+        <link rel="stylesheet" type="text/css" href="../app-assets/css/vendors.css" />
+        <link rel="stylesheet" type="text/css" href="../app-assets/vendors/css/extensions/unslider.css" />
+        <link rel="stylesheet" type="text/css" href="../app-assets/vendors/css/weather-icons/climacons.min.css" />
+        <!-- END VENDOR CSS-->
+        <!-- BEGIN STACK CSS-->
+        <link rel="stylesheet" type="text/css" href="../app-assets/css/app.css" /> <!-- END STACK CSS-->
+        <!-- BEGIN Page Level CSS-->
+        <link rel="stylesheet" type="text/css" href="../app-assets/css/core/menu/menu-types/vertical-menu.css" />
+        <link rel="stylesheet" type="text/css" href="../app-assets/fonts/simple-line-icons/style.css" />
+        <link rel="stylesheet" type="text/css" href="../app-assets/css/core/colors/palette-gradient.css" />
+        <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/timeline.css" />
+        <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/gallery.css" />
+        <link rel="stylesheet" type="text/css" href="../app-assets/Hover-master/css/hover.css" />
+        <link rel="stylesheet" type="text/css" href="../app-assets/js/avnSkeleton/avnSkeleton.css" />
+
+        <!-- END Page Level CSS-->
+        <!-- BEGIN Custom CSS-->
+        <link rel="stylesheet" type="text/css" href="../assets/css/style.css" /> <!-- END Custom CSS-->
+    </head>
+
+    <body class="vertical-layout vertical-menu 2-columns menu-expanded fixed-navbar" data-open="click"
+        data-menu="vertical-menu" data-col="2-columns">
+        <!-- fixed-top-->
+        <!-- ////////////////////////////////////////////////////////////////////////////-->
+        <div class="app-content content" style="margin-left: 0px">
+            <div class="content-wrapper">
+                <div class="content-header row">
+                    <div class="content-header-left col-md-9 col-12 mb-1">
+                        <h3 class="content-header-title" id="Titulo_asig"></h3>
+                    </div>
+                    <div class="content-header-right breadcrumbs-right breadcrumbs-top col-md-3 col-12">
+                        <div class="breadcrumb-wrapper col-12">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item">
+                                    <a href="../Inicio.html">Inicio</a>
+                                </li>
+                                <li class="breadcrumb-item">
+                                    <a href="#">Grado Primero</a>
+                                </li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+                <div class="content-body">
+                    <div class="row cursor-pointer" id="Asignaturas">
+                        <div class="card-content" style="width: 100%;">
+                            <div class="card-body">
+                                <ul class="nav nav-tabs" id="Periodos"></ul>
+                                <section id="bordered-callouts-with-icon">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <div class="card">
+                                                <div class="tab-content px-1 pt-1" style="width: 100%" id="Unidades">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="Temas" style="display: none">
+                        <section id="bordered-callouts-with-icon">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <h4 class="card-title">Listados de Temas</h4>
+                                            <a class="heading-elements-toggle">
+                                                <i class="fa fa-ellipsis font-medium-3"></i>
+                                            </a>
+                                        </div>
+                                        <div class="card-content collapse show">
+                                            <div class="card-body" id="LisTemas"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div id="DetContTema" style="display: none">
+                        <section id="global-settings" class="card">
+                            <div class="card-header">
+                                <article class="wrapper">
+                                    <header style="text-transform: capitalize;"></header>
+                                    <main style="height: 400px; overflow: auto;"></main>
+                                </article>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="modal-footer">
+                        <input type="hidden" class="form-control" id="IdCont" value="" />
+
+                        <button type="button" id="btn_Video" style="display: none" onclick="$.VerListVideo()"
+                            class="btn btn-outline-primary btn-min-width" data-dismiss="modal">
+                            <i class="ft-video position-right"></i>
+                            Video
+                        </button>
+
+                        <button type="button" id="btn_AtrasAsig" onclick="history.back();"
+                            class="btn grey btn-outline-secondary" data-dismiss="modal">
+                            <i class="ft-corner-up-left position-right"></i>
+                            Atras
+                        </button>
+                        <button type="button" id="btn_AtrasPer" style="display: none" onclick="$.VolverPer()"
+                            class="btn grey btn-outline-secondary" data-dismiss="modal">
+                            <i class="ft-corner-up-left position-right"></i>
+                            Atras
+                        </button>
+
+                        <button type="button" id="btn_AtrasTem" style="display: none" onclick="$.VolverTema()"
+                            class="btn grey btn-outline-secondary" data-dismiss="modal">
+                            <i class="ft-corner-up-left position-right"></i>
+                            Atras
+                        </button>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade text-left" id="ModAnima" tabindex="-1" role="dialog" aria-labelledby="myModalLabel15"
+            aria-hidden="true">
+            <div class="modal-dialog  modal-xl" role="document">
+                <div class="modal-content">
+                    <div class="modal-header bg-success white">
+                        <h4 class="modal-title" style="text-transform: capitalize;" id="titu_temaAnim">
+                            Video Tema</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div id='ListAnimaciones' style="height: 400px; overflow: auto;">
+                        </div>
+                        <div id='DetAnimaciones' style="height: 400px; overflow: auto;display: none;">
+                            <video id="videoclipAnima" width="100%" style="height:100%;" controls="controls"
+                                title="Video title">
+                                <source id="mp4videoAnima" src="" type="video/mp4" />
+                            </video>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" id="btn_atrasModAnima" class="btn grey btn-outline-secondary"
+                            style="display: none;" onclick="$.AtrasModAnima();"><i
+                                class="ft-corner-up-left position-right"></i> Atras</button>
+                        <button type="button" id="btn_salirModAnima" class="btn grey btn-outline-secondary"
+                            onclick="$.CloseModAnimaciones();" data-dismiss="modal"><i
+                                class="ft-corner-up-left position-right"></i> Salir</button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ////////////////////////////////////////////////////////////////////////////-->
+        <footer class="footer footer-static footer-light navbar-border" style="margin-left: 0px">
+            <p class="clearfix blue-grey lighten-2 text-sm-center mb-0 px-2">
+                <span class="float-md-left d-block d-md-inline-block">Copyright &copy;
+                    <script>
+                        document.write(new Date().getFullYear());
+                    </script>
+                    <a class="text-bold-800 grey darken-2" href="#" target="_blank">PEDIGITAL Lite
+                    </a>, Todos los Derechos
+                    Reservados.
+                </span>
+                <span class="float-md-right d-block d-md-inline-block d-none d-lg-block">CSI Desarrollos e Ingenierias
+                    S.A.S
+                    <i class="ft-book pink"></i>
+                </span>
+            </p>
+        </footer>
+
+        <!-- BEGIN VENDOR JS-->
+        <script src="../app-assets/vendors/js/vendors.min.js" type="text/javascript"></script>
+        <!-- BEGIN VENDOR JS-->
+        <!-- BEGIN PAGE VENDOR JS-->
+        <script src="../app-assets/vendors/js/extensions/unslider-min.js" type="text/javascript"></script>
+        <!-- END PAGE VENDOR JS-->
+        <!-- BEGIN STACK JS-->
+        <script src="../app-assets/js/core/app-menu.js" type="text/javascript"></script>
+        <script src="../app-assets/js/core/app.js" type="text/javascript"></script>
+
+        <!-- END STACK JS-->
+        <!-- BEGIN PAGE LEVEL JS-->
+        <script src="../app-assets/js/avnPlugin.js" type="text/javascript"></script>
+
+        <script src="../app-assets/js/avnSkeleton/avnSkeleton.js" type="text/javascript"></script>
+        <script src="../app-assets/js/jquery-migrate-3.0.0.min.js" type="text/javascript"></script>
+        <script src="../app-assets/js/All.js" type="text/javascript"></script>
+    
+        <!-- END PAGE LEVEL JS-->
+
+        <script>
+            var $wrapper = $('.wrapper');
+            $(document).ready(function () {
+                $.extend({
+                    CargarAsignaturas: function () {
+                        const urlSearchParams = new URLSearchParams(window.location.search);
+                        const IdAsig = urlSearchParams.get("id");
+                        const Asig = urlSearchParams.get("Asig");
+
+                        $("#Titulo_asig").html(" Contenido " + Asig + " Grado Primero");
+
+                        const xhttp = new XMLHttpRequest();
+                        xhttp.open("GET", "PerGrado1.json", true);
+                        xhttp.send();
+
+
+
+                        xhttp.onreadystatechange = function () {
+                            if (this.readyState == 4 && this.status == 200) {
+                                let datos = JSON.parse(xhttp.responseText);
+
+                                console.log(datos);
+
+                                let arrayPeriodos = datos.filter((e) => e.modulo == IdAsig);
+                                console.log(arrayPeriodos);
+                                let contenido = "";
+                                let x = 1;
+
+                                for (let item of arrayPeriodos) {
+                                    x == 1 ? (contenido += '  <li class="nav-item">' + '<a class="nav-link active" id="base-tab' + x + '" data-toggle="tab" aria-controls="tab' + x + '"' + 'href="#tab' + x + '" aria-expanded="true">' + item.desper + "</a>" + "</li>") : (contenido += '  <li class="nav-item">' + '<a class="nav-link" id="base-tab' + x + '" data-toggle="tab" aria-controls="tab' + x + '"' + 'href="#tab' + x + '" aria-expanded="true">' + item.desper + "</a>" + "</li>");
+                                    x++;
+                                }
+                                $("#Periodos").html(contenido);
+
+                                let ContPer = "";
+                                let y = 1;
+
+                                for (let item2 of arrayPeriodos) {
+                                    y == 1 ? (ContPer = ' <div  class="tab-pane active" id="tab' + y + '" aria-expanded="true" aria-labelledby="base-tab' + y + '">' + ' <div class="card-content collapse show">' + '<div class="card-body" id="Per' + item2.idper + '"> ' + "</div>" + "</div>" + "</div>") : (ContPer = ' <div  class="tab-pane" id="tab' + y + '"  aria-labelledby="base-tab' + y + '">' + ' <div class="card-content collapse show">' + '<div class="card-body" id="Per' + item2.idper + '"> ' + "</div>" + "</div>" + "</div>");
+
+                                    $("#Unidades").append(ContPer);
+
+                                    y++;
+
+                                    const xhttp2 = new XMLHttpRequest();
+                                    xhttp2.open("GET", "UnidGrado1.json", true);
+                                    xhttp2.send();
+
+                                    xhttp2.onreadystatechange = function () {
+                                        if (this.readyState == 4 && this.status == 200) {
+                                            let unidades = JSON.parse(xhttp2.responseText);
+
+                                            let arrayUniades = unidades.filter((e) => e.periodo == item2.idper);
+
+                                            let ContUnid = "";
+
+                                            for (let itemuni of arrayUniades) {
+                                                ContUnid += '<div class="bs-callout-primary callout-bordered mt-1" onclick="$.MostTemas(' + itemuni.idunid + ');">' + '<div class="media align-items-stretch">' + '<div class="d-flex align-items-center bg-primary p-2">' + '<i class="fa fa-folder fa-lg white"></i>' + "</div>" + '<div class="media-body p-1">' + "<strong>" + itemuni.nomunid + "</strong>" + "<p>" + itemuni.desunid + "</p>" + "</div>" + "</div>" + "</div>";
+                                            }
+
+                                            $("#Periodos").html(contenido);
+
+                                            $("#Per" + item2.idper).append(ContUnid);
+                                        }
+                                    };
+                                }
+                            }
+                        };
+                    },
+                    MostTemas: function (idTem) {
+                        const xhttp = new XMLHttpRequest();
+                        xhttp.open("GET", "TemasGrado1.json", true);
+                        xhttp.send();
+
+                        $("#Asignaturas").hide();
+                        $("#Temas").show();
+                        $("#btn_AtrasAsig").hide();
+                        $("#btn_AtrasPer").show();
+
+                        xhttp.onreadystatechange = function () {
+                            if (this.readyState == 4 && this.status == 200) {
+                                let datos = JSON.parse(xhttp.responseText);
+                                let arrayTemas = datos.filter((e) => e.unidad == idTem);
+                                let x = 1;
+                                let ContTemas = "";
+                                for (let itemTem of arrayTemas) {
+                                    var myClass = ["bs-callout-primary", "bs-callout-success", "bs-callout-danger",];
+                                    var rand = Math.floor(Math.random() * myClass.length);
+                                    var rValue = myClass[rand];
+
+                                    x == 1 ?
+                                        (ContTemas += '  <div style="cursor:pointer;" onclick="$.MostDetTema(' + itemTem.idcont + ');" class="' + rValue + ' callout-bordered">' +
+                                            '<div class="media align-items-stretch">' +
+                                            '<div class="d-flex align-items-center bg-primary p-2">' +
+                                            '<i class="fa fa-eye fa-lg white"></i>' +
+                                            "</div>" + '<div class="media-body p-1">' +
+                                            "<strong>" + itemTem.titu_contenido + "</strong>" +
+                                            "<p>" + itemTem.objetivo_general + "</p>" +
+                                            "</div>" + " </div>" + "</div>")
+                                        :
+                                        (ContTemas += '<div class="' + rValue + ' callout-bordered mt-1" style="cursor:pointer;" onclick="$.MostDetTema(' + itemTem.idcont + ');">' +
+                                            '<div class="media align-items-stretch">' + '<div class="d-flex align-items-center bg-primary p-2">' +
+                                            '<i class="fa fa-eye fa-lg white"></i>' + "</div>" + '<div class="media-body p-1">' +
+                                            "<strong>" + itemTem.titu_contenido + "</strong>" + "<p>" + itemTem.objetivo_general + "</p>" + "</div>" + " </div>" + "</div>");
+                                    x++;
+                                }
+
+                                $("#LisTemas").html(ContTemas);
+                            }
+                        };
+                    },
+                    MostDetTema: function (idcont) {
+
+                        $wrapper.avnSkeleton();
+
+                        const xhttp = new XMLHttpRequest();
+                        xhttp.open("GET", "TemasDetGrado1.json", true);
+                        xhttp.send();
+
+                        $("#IdCont").val(idcont);
+
+                        $("#Temas").hide();
+                        $("#DetContTema").show();
+                        $("#btn_AtrasPer").hide();
+                        $("#btn_AtrasTem").show();
+
+                        xhttp.onreadystatechange = function () {
+                            if (this.readyState == 4 && this.status == 200) {
+                                let datos = JSON.parse(xhttp.responseText);
+                                let arrayTemas = datos.filter((e) => e.contenido == idcont);
+
+                                for (let itemTem of arrayTemas) {
+                                    $wrapper.avnSkeleton("remove");
+                                    $wrapper.find("> main").append(itemTem.cont_documento);
+                                    itemTem.vide == "SI" ? $("#btn_Video").show() : $("#btn_Video").hide();
+                                }
+                            }
+                        };
+
+
+                    },
+                    VolverPer: function () {
+                        $("#Temas").hide();
+                        $("#Asignaturas").show();
+                        $("#btn_AtrasPer").hide();
+                        $("#btn_AtrasAsig").show();
+                    },
+                    VolverTema: function () {
+                        $("#DetContTema").hide();
+                        $("#Temas").show();
+                        $("#btn_AtrasTem").hide();
+                        $("#btn_Video").hide();
+                        $("#btn_AtrasPer").show();
+                        $wrapper.avnSkeleton('display');
+                        //$("#cont_tema").html('<header style="text-transform: capitalize;"></header>' + '<main style="height: 400px; overflow: auto;"></main>');
+                    },
+                    VerListVideo: function () {
+                        let idcont = $("#IdCont").val();
+
+                        $("#ModAnima").modal({
+                            backdrop: 'static',
+                            keyboard: false
+                        });
+
+
+                        const xhttp2 = new XMLHttpRequest();
+                        xhttp2.open("GET", "VideoTemasGrado1.json", true);
+                        xhttp2.send();
+
+
+                        xhttp2.onreadystatechange = function () {
+                            if (this.readyState == 4 && this.status == 200) {
+
+                                let datos = JSON.parse(xhttp2.responseText);
+                                let arrayVideos = datos.filter((e) => e.idcont == idcont);
+                                var contenido = '';
+                                let x = 1;
+                                for (let itemVide of arrayVideos) {
+                                    contenido +=
+                                        '<div class="bs-callout-warning callout-square callout-bordered mt-1">' +
+                                        '<div class="media align-items-stretch">' +
+
+                                        ' <div style="cursor:pointer" class="d-flex align-items-center bg-success p-2">' +
+                                        '       <i class="ft-video white font-medium-5"></i>' +
+                                        '    </div>' +
+                                        '    <div class="media-body p-1">' +
+                                        '    <a style="cursor:pointer"  class="text-truncate">' +
+                                        '     <a onclick="$.MostAnim(this.id)" id="' + x + '" data-ruta="' + itemVide.tit.slice(0, -4).toLowerCase() + '"  data-archivo="' + itemVide.nomvid +
+                                        '"  > <strong style="text-transform: capitalize;" >' +
+                                        itemVide.tit.slice(0, -4).toLowerCase() +
+                                        '</strong></a>' +
+                                        '       </div>' +
+                                        '    </div>' +
+                                        '  </div>';
+                                    x++;
+                                }
+
+                                $("#ListAnimaciones").html(contenido);
+
+
+                            }
+                        };
+                    },
+                    MostAnim: function (id) {
+                        $("#DetAnimaciones").show();
+                        $("#ListAnimaciones").hide();
+                        $("#btn_atrasModAnima").show();
+                        $("#btn_salirModAnima").hide();
+                        var videoID = 'videoclipAnima';
+                        var sourceID = 'mp4videoAnima';
+                        var nomarchi = $('#' + id).data("archivo");
+                        var TitVideo = $('#' + id).data("ruta");
+                        var newmp4 = "file:///storage/emulated/0/DCIM/VideosPrimero/"+nomarchi;
+                        $('#' + videoID).get(0).pause();
+                        $('#' + sourceID).attr('src', newmp4);
+                        $('#' + videoID).get(0).load();
+                        $('#' + videoID).get(0).play();
+
+                        $("#titu_temaAnim").html(TitVideo);
+
+                    },
+                    CloseModAnimaciones: function () {
+                        $('#ModAnima').modal('toggle');
+                    },
+                    AtrasModAnima: function () {
+                        $("#ListAnimaciones").show();
+                        $("#DetAnimaciones").hide();
+                        $("#btn_salirModAnima").show();
+                        $("#btn_atrasModAnima").hide();
+                        var videoID = 'videoclipAnima';
+                        $('#' + videoID).get(0).pause();
+                    },
+
+                });
+
+                $.CargarAsignaturas();
+            });
+        </script>
+    </body>
+
+    </html>

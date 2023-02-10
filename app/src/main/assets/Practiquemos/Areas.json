@@ -1,0 +1,31 @@
+[ 
+{ 
+"id":4,
+"nomare":"HUMANIDADES, LENGUA CASTELLANAS",
+"url_img":"img_lenguaje_1.png"
+},
+{ 
+"id":2,
+"nomare":"MATEMÁTICAS",
+"url_img":"img_matematica_2.jpg"
+},
+{ 
+"id":3,
+"nomare":"CIENCIAS SOCIALES",
+"url_img":"img_catedra_1.jpg"
+},
+{ 
+"id":1,
+"nomare":"CIENCIAS NATURALES",
+"url_img":"dce64a_BIOLOGIA1.png"
+},
+{ 
+"id":4,
+"nomare":"HUMANIDADES, LENGUA CASTELLANAS",
+"url_img":"82a0fe_FONDOPED02.jpg"
+},
+{ 
+"id":3,
+"nomare":"CIENCIAS SOCIALES",
+"url_img":"61f93a_FONDOPED02.jpg"
+}]

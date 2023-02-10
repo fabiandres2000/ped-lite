@@ -1,0 +1,225 @@
+[ 
+{ 
+"idunid":27,
+"nomunid":"Unidad 1",
+"desunid":"ES IMPORTANTE CUMPLIR CON LOS DEBERES",
+"periodo":"37",
+"modulo":"10"
+},
+{ 
+"idunid":28,
+"nomunid":"Unidad 2",
+"desunid":"RESPETAR LOS DERECHOS HUMANOS ES IMPORTANTE PARA LA CONVIVENCIA EN COMUNIDAD",
+"periodo":"38",
+"modulo":"10"
+},
+{ 
+"idunid":29,
+"nomunid":"Unidad 3",
+"desunid":"SE DEBEN RESPETAR LO QUE OTROS CREEN",
+"periodo":"39",
+"modulo":"10"
+},
+{ 
+"idunid":30,
+"nomunid":"Unidad 4",
+"desunid":"¿PORQUÉ ES IMPORTANTE LA SOLUCIÓN DE CONFLICTOS?",
+"periodo":"40",
+"modulo":"10"
+},
+{ 
+"idunid":100,
+"nomunid":"Unidad 1",
+"desunid":"GÉNERO NARRATIVO",
+"periodo":"128",
+"modulo":"33"
+},
+{ 
+"idunid":101,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"128",
+"modulo":"33"
+},
+{ 
+"idunid":102,
+"nomunid":"Unidad 3",
+"desunid":"ORTOGRAFÍA",
+"periodo":"128",
+"modulo":"33"
+},
+{ 
+"idunid":103,
+"nomunid":"Unidad 1",
+"desunid":"GENERO NARRATIVO",
+"periodo":"129",
+"modulo":"33"
+},
+{ 
+"idunid":104,
+"nomunid":"Unidad 2",
+"desunid":"USO ORTOGRÁFICO",
+"periodo":"129",
+"modulo":"33"
+},
+{ 
+"idunid":106,
+"nomunid":"Unidad 3",
+"desunid":"SEMÁNTICA",
+"periodo":"129",
+"modulo":"33"
+},
+{ 
+"idunid":107,
+"nomunid":"Unidad 4",
+"desunid":"TEXTO NARRATIVO",
+"periodo":"129",
+"modulo":"33"
+},
+{ 
+"idunid":108,
+"nomunid":"Unidad 1",
+"desunid":"LITERATURA GÉNERO LÍRICO",
+"periodo":"130",
+"modulo":"33"
+},
+{ 
+"idunid":109,
+"nomunid":"Unidad 2",
+"desunid":"GRAMÁTICA",
+"periodo":"130",
+"modulo":"33"
+},
+{ 
+"idunid":111,
+"nomunid":"Unidad 3",
+"desunid":"ORTOGRAFÍA",
+"periodo":"130",
+"modulo":"33"
+},
+{ 
+"idunid":112,
+"nomunid":"Unidad 1",
+"desunid":"PRODUCCIÓN TEXTUAL GRAMÁTICA",
+"periodo":"131",
+"modulo":"33"
+},
+{ 
+"idunid":113,
+"nomunid":"Unidad 2",
+"desunid":"LA ORTOGRAFÍA",
+"periodo":"131",
+"modulo":"33"
+},
+{ 
+"idunid":218,
+"nomunid":"Unidad 1",
+"desunid":"PROCESOS VITALES Y ORGANIZACIÓN DE LOS SERES VIVOS",
+"periodo":"185",
+"modulo":"47"
+},
+{ 
+"idunid":219,
+"nomunid":"Unidad 2",
+"desunid":"PROCESOS VITALES Y ORGANIZACIÓN DE LOS SERES VIVOS",
+"periodo":"186",
+"modulo":"47"
+},
+{ 
+"idunid":220,
+"nomunid":"Unidad 3",
+"desunid":"LA MATERIA Y SUS PROPIEDADES",
+"periodo":"187",
+"modulo":"47"
+},
+{ 
+"idunid":221,
+"nomunid":"Unidad 4",
+"desunid":"LAS FUERZAS Y SUS EFECTOS SOBRE LOS OBJETOS",
+"periodo":"188",
+"modulo":"47"
+},
+{ 
+"idunid":240,
+"nomunid":"Unidad 1",
+"desunid":"EXPLORING MY CLASSROOM",
+"periodo":"229",
+"modulo":"58"
+},
+{ 
+"idunid":241,
+"nomunid":"Unidad 2",
+"desunid":"MY BODY AND ENVIROMENT",
+"periodo":"230",
+"modulo":"58"
+},
+{ 
+"idunid":242,
+"nomunid":"Unidad 3",
+"desunid":"EXPRESSIONS ABOUT MY DAILY ROUTINE AND ENVIROMENT",
+"periodo":"231",
+"modulo":"58"
+},
+{ 
+"idunid":243,
+"nomunid":"Unidad 4",
+"desunid":"FAVORITE PLACES AND FOOD",
+"periodo":"232",
+"modulo":"58"
+},
+{ 
+"idunid":282,
+"nomunid":"Unidad 1",
+"desunid":"NÚMEROS DE TRES CIFRAS",
+"periodo":"49",
+"modulo":"13"
+},
+{ 
+"idunid":283,
+"nomunid":"Unidad 2",
+"desunid":"LA MULTPLICACIÓN Y LA DIVISIÓN",
+"periodo":"50",
+"modulo":"13"
+},
+{ 
+"idunid":284,
+"nomunid":"Unidad 3",
+"desunid":"GEOMETRÍA PLANA Y DEL ESPACIO",
+"periodo":"51",
+"modulo":"13"
+},
+{ 
+"idunid":285,
+"nomunid":"Unidad 4",
+"desunid":"MEDICIÓN ESTADÍSTICA Y VARIACIÓN",
+"periodo":"52",
+"modulo":"13"
+},
+{ 
+"idunid":386,
+"nomunid":"Unidad 1",
+"desunid":"LA FAMILIA Y LA ESCUELA",
+"periodo":"297",
+"modulo":"75"
+},
+{ 
+"idunid":387,
+"nomunid":"Unidad 2",
+"desunid":"VIVO EN COMUNIDAD",
+"periodo":"298",
+"modulo":"75"
+},
+{ 
+"idunid":388,
+"nomunid":"Unidad 3",
+"desunid":"EL ESPACIO GEOGRAFICO",
+"periodo":"299",
+"modulo":"75"
+},
+{ 
+"idunid":389,
+"nomunid":"Unidad 4",
+"desunid":"NUESTRA HISTORIA",
+"periodo":"300",
+"modulo":"75"
+}]
